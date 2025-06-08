@@ -1,0 +1,271 @@
+area,is_country,area_standard_name
+"Total, all countries or areas",False,World
+Africa,False,Africa
+Northern Africa,False,Northern Africa
+Sub-Saharan Africa,False,Sub-Saharan Africa
+Eastern Africa,False,Eastern Africa
+Middle Africa,False,Middle Africa
+Southern Africa,False,Southern Africa
+Western Africa,False,Western Africa
+Americas,False,Americas
+Northern America,False,Northern America
+Latin America & the Caribbean,False,Latin America & the Caribbean
+Caribbean,False,Caribbean
+Central America,False,Central America
+South America,False,South America
+Asia,False,Asia
+Central Asia,False,Central Asia
+Eastern Asia,False,Eastern Asia
+South-central Asia,False,South-central Asia
+South-eastern Asia,False,South-eastern Asia
+Southern Asia,False,Southern Asia
+Western Asia,False,Western Asia
+Europe,False,Europe
+Eastern Europe,False,Eastern Europe
+Northern Europe,False,Northern Europe
+Southern Europe,False,Southern Europe
+Western Europe,False,Western Europe
+Oceania,False,Oceania
+Australia and New Zealand,False,Australia and New Zealand
+Melanesia,False,Melanesia
+Micronesia,False,Micronesia
+Polynesia,False,Polynesia
+Afghanistan,True,Afghanistan
+Albania,True,Albania
+Algeria,True,Algeria
+American Samoa,True,American Samoa
+Andorra,True,Andorra
+Angola,True,Angola
+Anguilla,True,Anguilla
+Antigua and Barbuda,True,Antigua and Barbuda
+Argentina,True,Argentina
+Armenia,True,Armenia
+Aruba,True,Aruba
+Australia,True,Australia
+Austria,True,Austria
+Azerbaijan,True,Azerbaijan
+Bahamas,True,Bahamas
+Bahrain,True,Bahrain
+Bangladesh,True,Bangladesh
+Barbados,True,Barbados
+Belarus,True,Belarus
+Belgium,True,Belgium
+Belize,True,Belize
+Benin,True,Benin
+Bermuda,True,Bermuda
+Bhutan,True,Bhutan
+Bolivia (Plurin. State of),True,Bolivia
+"Bonaire, St. Eustatius & Saba",True,"Bonaire, Saint Eustatius and Saba"
+Bosnia and Herzegovina,True,Bosnia and Herzegovina
+Botswana,True,Botswana
+Brazil,True,Brazil
+British Virgin Islands,True,British Virgin Islands
+Brunei Darussalam,True,Brunei Darussalam
+Bulgaria,True,Bulgaria
+Burkina Faso,True,Burkina Faso
+Burundi,True,Burundi
+Cabo Verde,True,Cabo Verde
+Cambodia,True,Cambodia
+Cameroon,True,Cameroon
+Canada,True,Canada
+Cayman Islands,True,Cayman Islands
+Central African Republic,True,Central African Republic
+Chad,True,Chad
+Chile,True,Chile
+China,True,China
+"China, Hong Kong SAR",True,Hong Kong
+"China, Macao SAR",True,Macau
+Colombia,True,Colombia
+Comoros,True,Comoros
+Congo,True,Congo Republic
+Cook Islands,True,Cook Islands
+Costa Rica,True,Costa Rica
+Côte d’Ivoire,True,Cote d'Ivoire
+Croatia,True,Croatia
+Cuba,True,Cuba
+Curaçao,True,Curacao
+Cyprus,True,Cyprus
+Czechia,True,Czechia
+Dem. People's Rep. Korea,True,North Korea
+Dem. Rep. of the Congo,True,DR Congo
+Denmark,True,Denmark
+Djibouti,True,Djibouti
+Dominica,True,Dominica
+Dominican Republic,True,Dominican Republic
+Ecuador,True,Ecuador
+Egypt,True,Egypt
+El Salvador,True,El Salvador
+Equatorial Guinea,True,Equatorial Guinea
+Eritrea,True,Eritrea
+Estonia,True,Estonia
+Eswatini,True,Eswatini
+Ethiopia,True,Ethiopia
+Falkland Islands (Malvinas),True,Falkland Islands
+Faroe Islands,True,Faroe Islands
+Fiji,True,Fiji
+Finland,True,Finland
+France,True,France
+French Guiana,True,French Guiana
+French Polynesia,True,French Polynesia
+Gabon,True,Gabon
+Gambia,True,Gambia
+Georgia,True,Georgia
+Germany,True,Germany
+Ghana,True,Ghana
+Gibraltar,True,Gibraltar
+Greece,True,Greece
+Greenland,True,Greenland
+Grenada,True,Grenada
+Guadeloupe,True,Guadeloupe
+Guam,True,Guam
+Guatemala,True,Guatemala
+Guernsey,True,Guernsey
+Guinea,True,Guinea
+Guinea-Bissau,True,Guinea-Bissau
+Guyana,True,Guyana
+Haiti,True,Haiti
+Honduras,True,Honduras
+Hungary,True,Hungary
+Iceland,True,Iceland
+India,True,India
+Indonesia,True,Indonesia
+Iran (Islamic Republic of),True,Iran
+Iraq,True,Iraq
+Ireland,True,Ireland
+Isle of Man,True,Isle of Man
+Israel,True,Israel
+Italy,True,Italy
+Jamaica,True,Jamaica
+Japan,True,Japan
+Jersey,True,Jersey
+Jordan,True,Jordan
+Kazakhstan,True,Kazakhstan
+Kenya,True,Kenya
+Kiribati,True,Kiribati
+Kosovo,True,Kosovo
+Kuwait,True,Kuwait
+Kyrgyzstan,True,Kyrgyz Republic
+Lao People's Dem. Rep.,True,Laos
+Latvia,True,Latvia
+Lebanon,True,Lebanon
+Lesotho,True,Lesotho
+Liberia,True,Liberia
+Libya,True,Libya
+Liechtenstein,True,Liechtenstein
+Lithuania,True,Lithuania
+Luxembourg,True,Luxembourg
+Madagascar,True,Madagascar
+Malawi,True,Malawi
+Malaysia,True,Malaysia
+Maldives,True,Maldives
+Mali,True,Mali
+Malta,True,Malta
+Marshall Islands,True,Marshall Islands
+Martinique,True,Martinique
+Mauritania,True,Mauritania
+Mauritius,True,Mauritius
+Mayotte,True,Mayotte
+Mexico,True,Mexico
+Micronesia (Fed. States of),True,"Micronesia, Fed. Sts."
+Monaco,True,Monaco
+Mongolia,True,Mongolia
+Montenegro,True,Montenegro
+Montserrat,True,Montserrat
+Morocco,True,Morocco
+Mozambique,True,Mozambique
+Myanmar,True,Myanmar
+Namibia,True,Namibia
+Nauru,True,Nauru
+Nepal,True,Nepal
+Netherlands (Kingdom of the),True,Netherlands
+New Caledonia,True,New Caledonia
+New Zealand,True,New Zealand
+Nicaragua,True,Nicaragua
+Niger,True,Niger
+Nigeria,True,Nigeria
+Niue,True,Niue
+North Macedonia,True,North Macedonia
+Northern Mariana Islands,True,Northern Mariana Islands
+Norway,True,Norway
+Oman,True,Oman
+Other non-specified areas,False,Other non-specified areas
+Pakistan,True,Pakistan
+Palau,True,Palau
+Panama,True,Panama
+Papua New Guinea,True,Papua New Guinea
+Paraguay,True,Paraguay
+Peru,True,Peru
+Philippines,True,Philippines
+Poland,True,Poland
+Portugal,True,Portugal
+Puerto Rico,True,Puerto Rico
+Qatar,True,Qatar
+Republic of Korea,True,South Korea
+Republic of Moldova,True,Moldova
+Réunion,True,Reunion
+Romania,True,Romania
+Russian Federation,True,Russia
+Rwanda,True,Rwanda
+Saint Barthélemy,True,St. Barths
+Saint Helena,True,St. Helena
+Saint Kitts and Nevis,True,St. Kitts and Nevis
+Saint Lucia,True,St. Lucia
+Saint Martin (French part),True,Saint-Martin
+Saint Pierre and Miquelon,True,St. Pierre and Miquelon
+Saint Vincent & Grenadines,True,St. Vincent and the Grenadines
+Samoa,True,Samoa
+San Marino,True,San Marino
+Sao Tome and Principe,True,Sao Tome and Principe
+Saudi Arabia,True,Saudi Arabia
+Senegal,True,Senegal
+Serbia,True,Serbia
+Seychelles,True,Seychelles
+Sierra Leone,True,Sierra Leone
+Singapore,True,Singapore
+Sint Maarten (Dutch part),True,Sint Maarten
+Slovakia,True,Slovakia
+Slovenia,True,Slovenia
+Solomon Islands,True,Solomon Islands
+Somalia,True,Somalia
+South Africa,True,South Africa
+South Sudan,True,South Sudan
+Spain,True,Spain
+Sri Lanka,True,Sri Lanka
+State of Palestine,True,Palestine
+Sudan,True,Sudan
+Suriname,True,Suriname
+Sweden,True,Sweden
+Switzerland,True,Switzerland
+Syrian Arab Republic,True,Syria
+Tajikistan,True,Tajikistan
+Thailand,True,Thailand
+Timor-Leste,True,Timor-Leste
+Togo,True,Togo
+Tokelau,True,Tokelau
+Tonga,True,Tonga
+Trinidad and Tobago,True,Trinidad and Tobago
+Tunisia,True,Tunisia
+Türkiye,True,Turkey
+Turkmenistan,True,Turkmenistan
+Turks and Caicos Islands,True,Turks and Caicos Islands
+Tuvalu,True,Tuvalu
+Uganda,True,Uganda
+Ukraine,True,Ukraine
+United Arab Emirates,True,United Arab Emirates
+United Kingdom,True,United Kingdom
+United Rep. of Tanzania,True,Tanzania
+United States of America,True,United States
+United States Virgin Islands,True,U.S. Virgin Islands
+Uruguay,True,Uruguay
+Uzbekistan,True,Uzbekistan
+Vanuatu,True,Vanuatu
+Venezuela (Boliv. Rep. of),True,Venezuela
+Viet Nam,True,Vietnam
+Wallis and Futuna Islands,True,Wallis and Futuna Islands
+Western Sahara,True,Western Sahara
+Yemen,True,Yemen
+Zambia,True,Zambia
+Zimbabwe,True,Zimbabwe
+LLDCs,False,LLDCs
+LDC§,False,LDC§
+SIDS,False,SIDS
