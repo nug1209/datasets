@@ -1,271 +1,271 @@
-area,is_country,area_standard_name,population_2024,gdp_constant_2015_prices_2022,gdp_current_prices_2022,gdp_per_capita_2022
-"Total, all countries or areas",False,World,8161.97,90126325.0,100834796.0,12647.0
-Africa,False,Africa,1515.14,2875884.0,2870757.0,2015.0
-Northern Africa,False,Northern Africa,272.13,959918.0,855580.0,3298.0
-Sub-Saharan Africa,False,Sub-Saharan Africa,1243.01,1915966.0,2015177.0,1729.0
-Eastern Africa,False,Eastern Africa,500.7,455154.0,512915.0,1087.0
-Middle Africa,False,Middle Africa,212.92,254834.0,287184.0,1465.0
-Southern Africa,False,Southern Africa,73.14,395964.0,444845.0,6485.0
-Western Africa,False,Western Africa,456.25,810013.0,770232.0,1795.0
-Americas,False,Americas,1048.76,28714113.0,34020481.0,32842.0
-Northern America,False,Northern America,385.3,22994457.0,27892511.0,74012.0
-Latin America & the Caribbean,False,Latin America & the Caribbean,663.47,5719657.0,6127970.0,9298.0
-Caribbean,False,Caribbean,44.44,367262.0,483941.0,11135.0
-Central America,False,Central America,183.41,1573131.0,1785939.0,9974.0
-South America,False,South America,435.61,3779263.0,3858090.0,8839.0
-Asia,False,Asia,4806.9,35357380.0,38004625.0,8049.0
-Central Asia,False,Central Asia,82.23,410564.0,394320.0,5118.0
-Eastern Asia,False,Eastern Asia,1656.12,23619905.0,25047265.0,15063.0
-South-central Asia,False,South-central Asia,2146.28,,,
-South-eastern Asia,False,South-eastern Asia,695.15,3243635.0,3630588.0,5330.0
-Southern Asia,False,Southern Asia,2064.06,4433025.0,4761901.0,2372.0
-Western Asia,False,Western Asia,309.35,3650250.0,4170551.0,14217.0
-Europe,False,Europe,745.08,21442846.0,23858902.0,32001.0
-Eastern Europe,False,Eastern Europe,285.0,3009950.0,4150508.0,14331.0
-Northern Europe,False,Northern Europe,108.96,5481446.0,5652647.0,53207.0
-Southern Europe,False,Southern Europe,151.25,3972260.0,4226047.0,27853.0
-Western Europe,False,Western Europe,199.86,8979190.0,9829701.0,49648.0
-Oceania,False,Oceania,46.09,1736101.0,2080031.0,46473.0
-Australia and New Zealand,False,Australia and New Zealand,31.93,1686770.0,2022422.0,64485.0
-Melanesia,False,Melanesia,12.94,40804.0,48795.0,3931.0
-Micronesia,False,Micronesia,0.53,1051.0,1304.0,4105.0
-Polynesia,False,Polynesia,0.69,7477.0,7509.0,11312.0
-Afghanistan,True,Afghanistan,42.65,16049.0,14175.0,345.0
-Albania,True,Albania,2.79,14320.0,18916.0,6655.0
-Algeria,True,Algeria,46.81,179428.0,191913.0,4274.0
-American Samoa,True,American Samoa,0.05,,,
-Andorra,True,Andorra,0.08,3169.0,3376.0,42293.0
-Angola,True,Angola,37.89,108990.0,113305.0,3184.0
-Anguilla,True,Anguilla,0.01,339.0,453.0,28561.0
-Antigua and Barbuda,True,Antigua and Barbuda,0.09,1554.0,1770.0,18880.0
-Argentina,True,Argentina,45.7,648767.0,631133.0,13868.0
-Armenia,True,Armenia,2.97,14239.0,19514.0,7018.0
-Aruba,True,Aruba,0.11,3459.0,3545.0,33301.0
-Australia,True,Australia,26.71,1465797.0,1776577.0,67867.0
-Austria,True,Austria,9.12,422065.0,470302.0,52609.0
-Azerbaijan,True,Azerbaijan,10.34,56597.0,78721.0,7600.0
-Bahamas,True,Bahamas,0.4,12456.0,12897.0,31458.0
-Bahrain,True,Bahrain,1.61,35898.0,44383.0,30147.0
-Bangladesh,True,Bangladesh,173.56,364957.0,432677.0,2528.0
-Barbados,True,Barbados,0.28,4672.0,5700.0,20239.0
-Belarus,True,Belarus,9.06,57270.0,72874.0,7643.0
-Belgium,True,Belgium,11.74,516126.0,582643.0,49987.0
-Belize,True,Belize,0.42,2509.0,2831.0,6984.0
-Benin,True,Benin,14.46,16753.0,17397.0,1303.0
-Bermuda,True,Bermuda,0.06,6755.0,7546.0,117568.0
-Bhutan,True,Bhutan,0.79,2589.0,2898.0,3704.0
-Bolivia (Plurin. State of),True,Bolivia,12.41,38320.0,44008.0,3600.0
-"Bonaire, St. Eustatius & Saba",True,"Bonaire, Saint Eustatius and Saba",0.03,,,
-Bosnia and Herzegovina,True,Bosnia and Herzegovina,3.16,20254.0,24474.0,7569.0
-Botswana,True,Botswana,2.52,17510.0,20352.0,7738.0
-Brazil,True,Brazil,212.0,1901461.0,1920095.0,8918.0
-British Virgin Islands,True,British Virgin Islands,0.04,1537.0,1471.0,46997.0
-Brunei Darussalam,True,Brunei Darussalam,0.46,13000.0,16682.0,37152.0
-Bulgaria,True,Bulgaria,6.76,61692.0,90213.0,13302.0
-Burkina Faso,True,Burkina Faso,23.55,16535.0,19177.0,846.0
-Burundi,True,Burundi,14.05,3490.0,4033.0,313.0
-Cabo Verde,True,Cabo Verde,0.52,2160.0,2315.0,3903.0
-Cambodia,True,Cambodia,17.64,24972.0,29505.0,1760.0
-Cameroon,True,Cameroon,29.12,40321.0,44342.0,1588.0
-Canada,True,Canada,39.74,1748638.0,2137939.0,55597.0
-Cayman Islands,True,Cayman Islands,0.07,5471.0,6281.0,91420.0
-Central African Republic,True,Central African Republic,5.33,2031.0,2396.0,429.0
-Chad,True,Chad,20.3,15039.0,16799.0,948.0
-Chile,True,Chile,19.76,281778.0,300686.0,15338.0
-China,True,China,1419.32,16325036.0,17963171.0,12598.0
-"China, Hong Kong SAR",True,Hong Kong,7.41,318598.0,359839.0,48050.0
-"China, Macao SAR",True,Macau,0.72,22581.0,24042.0,34585.0
-Colombia,True,Colombia,52.89,354937.0,343939.0,6630.0
-Comoros,True,Comoros,0.87,1240.0,1247.0,1490.0
-Congo,True,Congo Republic,6.33,10244.0,15345.0,2570.0
-Cook Islands,True,Cook Islands,0.01,306.0,290.0,17033.0
-Costa Rica,True,Costa Rica,5.13,69286.0,68381.0,13199.0
-Côte d’Ivoire,True,Cote d'Ivoire,31.93,68386.0,70019.0,2486.0
-Croatia,True,Croatia,3.88,63413.0,71552.0,17753.0
-Cuba,True,Cuba,10.98,83597.0,147194.0,13128.0
-Curaçao,True,Curacao,0.19,2608.0,3075.0,16087.0
-Cyprus,True,Cyprus,1.36,27893.0,29211.0,32999.0
-Czechia,True,Czechia,10.74,215976.0,290528.0,27685.0
-Dem. People's Rep. Korea,True,North Korea,26.5,14959.0,15176.0,590.0
-Dem. Rep. of the Congo,True,DR Congo,109.28,52172.0,62552.0,632.0
-Denmark,True,Denmark,5.98,356222.0,400167.0,68029.0
-Djibouti,True,Djibouti,1.17,3356.0,4003.0,3572.0
-Dominica,True,Dominica,0.07,535.0,612.0,8415.0
-Dominican Republic,True,Dominican Republic,11.43,98037.0,113537.0,10111.0
-Ecuador,True,Ecuador,18.14,100635.0,115049.0,6391.0
-Egypt,True,Egypt,116.54,461269.0,409307.0,3688.0
-El Salvador,True,El Salvador,6.34,27097.0,32489.0,5127.0
-Equatorial Guinea,True,Equatorial Guinea,1.89,9836.0,11767.0,7026.0
-Eritrea,True,Eritrea,3.54,2398.0,2383.0,647.0
-Estonia,True,Estonia,1.36,28507.0,38049.0,28693.0
-Eswatini,True,Eswatini,1.24,4600.0,4327.0,3601.0
-Ethiopia,True,Ethiopia,132.06,101535.0,118972.0,964.0
-Falkland Islands (Malvinas),True,Falkland Islands,0.0,,,
-Faroe Islands,True,Faroe Islands,0.06,,,
-Fiji,True,Fiji,0.93,4932.0,4980.0,5356.0
-Finland,True,Finland,5.62,260638.0,282512.0,50988.0
-France,True,France,66.55,2637346.0,2775317.0,41426.0
-French Guiana,True,French Guiana,0.31,,,
-French Polynesia,True,French Polynesia,0.28,5897.0,5815.0,18985.0
-Gabon,True,Gabon,2.54,15819.0,20132.0,8427.0
-Gambia,True,Gambia,2.76,1863.0,2232.0,825.0
-Georgia,True,Georgia,3.81,20139.0,24605.0,6571.0
-Germany,True,Germany,84.55,3632118.0,4076924.0,48902.0
-Ghana,True,Ghana,34.43,68868.0,73766.0,2204.0
-Gibraltar,True,Gibraltar,0.04,,,
-Greece,True,Greece,10.05,211453.0,217286.0,20923.0
-Greenland,True,Greenland,0.06,2788.0,2926.0,51821.0
-Grenada,True,Grenada,0.12,1063.0,1193.0,9509.0
-Guadeloupe,True,Guadeloupe,0.38,,,
-Guam,True,Guam,0.17,,,
-Guatemala,True,Guatemala,18.41,78182.0,95003.0,5324.0
-Guernsey,True,Guernsey,0.06,,,
-Guinea,True,Guinea,14.75,13906.0,20846.0,1504.0
-Guinea-Bissau,True,Guinea-Bissau,2.2,1439.0,1574.0,748.0
-Guyana,True,Guyana,0.83,14268.0,14718.0,18199.0
-Haiti,True,Haiti,11.77,13829.0,18751.0,1619.0
-Honduras,True,Honduras,10.83,25954.0,31718.0,3040.0
-Hungary,True,Hungary,9.68,157531.0,177337.0,17792.0
-Iceland,True,Iceland,0.39,21556.0,28065.0,75260.0
-India,True,India,1450.94,3022292.0,3465541.0,2445.0
-Indonesia,True,Indonesia,283.49,1122285.0,1319100.0,4788.0
-Iran (Islamic Republic of),True,Iran,91.57,498444.0,398048.0,4495.0
-Iraq,True,Iraq,46.04,192926.0,264182.0,5937.0
-Ireland,True,Ireland,5.26,498760.0,532416.0,105993.0
-Isle of Man,True,Isle of Man,0.08,,,
-Israel,True,Israel,9.39,408208.0,525002.0,58086.0
-Italy,True,Italy,59.34,1960827.0,2046953.0,34672.0
-Jamaica,True,Jamaica,2.84,14675.0,17098.0,6047.0
-Japan,True,Japan,123.75,4509358.0,4232174.0,34144.0
-Jersey,True,Jersey,0.1,,,
-Jordan,True,Jordan,11.55,43120.0,47452.0,4205.0
-Kazakhstan,True,Kazakhstan,20.59,227399.0,225496.0,11625.0
-Kenya,True,Kenya,56.43,94829.0,113420.0,2099.0
-Kiribati,True,Kiribati,0.13,187.0,224.0,1704.0
-Kosovo,True,Kosovo,1.68,8322.0,9397.0,5662.0
-Kuwait,True,Kuwait,4.93,114893.0,175363.0,41079.0
-Kyrgyzstan,True,Kyrgyz Republic,7.19,8244.0,10931.0,1649.0
-Lao People's Dem. Rep.,True,Laos,7.77,20585.0,15363.0,2040.0
-Latvia,True,Latvia,1.87,32089.0,40876.0,22088.0
-Lebanon,True,Lebanon,5.81,31160.0,39303.0,7159.0
-Lesotho,True,Lesotho,2.34,2192.0,2287.0,992.0
-Liberia,True,Liberia,5.61,2878.0,3265.0,616.0
-Libya,True,Libya,7.38,44923.0,40537.0,5951.0
-Liechtenstein,True,Liechtenstein,0.04,6885.0,7758.0,197268.0
-Lithuania,True,Lithuania,2.86,52464.0,70878.0,25773.0
-Luxembourg,True,Luxembourg,0.67,71626.0,81531.0,125897.0
-Madagascar,True,Madagascar,31.97,13440.0,14955.0,505.0
-Malawi,True,Malawi,21.66,11487.0,12559.0,615.0
-Malaysia,True,Malaysia,35.56,385944.0,406306.0,11972.0
-Maldives,True,Maldives,0.53,5780.0,6171.0,11781.0
-Mali,True,Mali,24.48,19314.0,18827.0,833.0
-Malta,True,Malta,0.54,16128.0,18101.0,33942.0
-Marshall Islands,True,Marshall Islands,0.04,225.0,280.0,6728.0
-Martinique,True,Martinique,0.34,,,
-Mauritania,True,Mauritania,5.17,7955.0,10997.0,2322.0
-Mauritius,True,Mauritius,1.27,13311.0,12898.0,9926.0
-Mayotte,True,Mayotte,0.33,,,
-Mexico,True,Mexico,130.86,1285063.0,1463324.0,11477.0
-Micronesia (Fed. States of),True,"Micronesia, Fed. Sts.",0.11,314.0,427.0,3741.0
-Monaco,True,Monaco,0.04,8336.0,8772.0,240535.0
-Mongolia,True,Mongolia,3.48,14442.0,17146.0,5046.0
-Montenegro,True,Montenegro,0.64,4867.0,6230.0,9935.0
-Montserrat,True,Montserrat,0.0,81.0,72.0,16461.0
-Morocco,True,Morocco,38.08,136387.0,130913.0,3495.0
-Mozambique,True,Mozambique,34.63,19464.0,18407.0,558.0
-Myanmar,True,Myanmar,54.5,78243.0,65212.0,1204.0
-Namibia,True,Namibia,3.03,11187.0,12607.0,4911.0
-Nauru,True,Nauru,0.01,114.0,148.0,11679.0
-Nepal,True,Nepal,29.65,32142.0,39407.0,1290.0
-Netherlands (Kingdom of the),True,Netherlands,18.23,894368.0,1008027.0,57392.0
-New Caledonia,True,New Caledonia,0.29,8674.0,9623.0,33190.0
-New Zealand,True,New Zealand,5.21,220973.0,245845.0,47412.0
-Nicaragua,True,Nicaragua,6.92,14729.0,15672.0,2255.0
-Niger,True,Niger,27.03,14338.0,15415.0,588.0
-Nigeria,True,Nigeria,232.68,537025.0,475059.0,2174.0
-Niue,True,Niue,0.0,,,
-North Macedonia,True,North Macedonia,1.82,11386.0,13711.0,6549.0
-Northern Mariana Islands,True,Northern Mariana Islands,0.04,,,
-Norway,True,Norway,5.58,434585.0,579422.0,106623.0
-Oman,True,Oman,5.28,86295.0,114667.0,25057.0
-Other non-specified areas,False,Other non-specified areas,23.21,,,
-Pakistan,True,Pakistan,251.27,402312.0,326797.0,1386.0
-Palau,True,Palau,0.02,210.0,226.0,12498.0
-Panama,True,Panama,4.52,70310.0,76523.0,17358.0
-Papua New Guinea,True,Papua New Guinea,10.58,24977.0,31610.0,3117.0
-Paraguay,True,Paraguay,6.93,41996.0,41722.0,6153.0
-Peru,True,Peru,34.22,223194.0,242632.0,7126.0
-Philippines,True,Philippines,115.84,407690.0,404284.0,3499.0
-Poland,True,Poland,38.54,630290.0,688125.0,17265.0
-Portugal,True,Portugal,10.43,230232.0,254850.0,24813.0
-Puerto Rico,True,Puerto Rico,3.24,95855.0,113435.0,34877.0
-Qatar,True,Qatar,3.05,171752.0,237101.0,87974.0
-Republic of Korea,True,South Korea,51.72,1740553.0,1673917.0,32305.0
-Republic of Moldova,True,Moldova,3.04,9004.0,14510.0,4433.0
-Réunion,True,Reunion,0.88,,,
-Romania,True,Romania,19.02,232157.0,300691.0,15295.0
-Russian Federation,True,Russia,144.82,1471546.0,2240422.0,15482.0
-Rwanda,True,Rwanda,14.26,12934.0,13313.0,966.0
-Saint Barthélemy,True,St. Barths,0.01,,,
-Saint Helena,True,St. Helena,0.01,,,
-Saint Kitts and Nevis,True,St. Kitts and Nevis,0.05,963.0,979.0,20547.0
-Saint Lucia,True,St. Lucia,0.18,1899.0,2165.0,12038.0
-Saint Martin (French part),True,Saint-Martin,0.03,,,
-Saint Pierre and Miquelon,True,St. Pierre and Miquelon,0.01,,,
-Saint Vincent & Grenadines,True,St. Vincent and the Grenadines,0.1,884.0,947.0,9107.0
-Samoa,True,Samoa,0.22,798.0,857.0,3855.0
-San Marino,True,San Marino,0.03,1601.0,1781.0,52903.0
-Sao Tome and Principe,True,Sao Tome and Principe,0.24,381.0,547.0,2405.0
-Saudi Arabia,True,Saudi Arabia,33.96,767097.0,1108149.0,30436.0
-Senegal,True,Senegal,18.5,25302.0,27776.0,1604.0
-Serbia,True,Serbia,6.74,49711.0,63563.0,8802.0
-Seychelles,True,Seychelles,0.13,1869.0,1995.0,18623.0
-Sierra Leone,True,Sierra Leone,8.64,5406.0,3481.0,405.0
-Singapore,True,Singapore,5.83,379709.0,466789.0,78115.0
-Sint Maarten (Dutch part),True,Sint Maarten,0.04,1204.0,1573.0,35607.0
-Slovakia,True,Slovakia,5.51,102499.0,115305.0,20432.0
-Slovenia,True,Slovenia,2.12,53517.0,59982.0,28295.0
-Solomon Islands,True,Solomon Islands,0.82,1371.0,1597.0,2205.0
-Somalia,True,Somalia,19.01,9319.0,10420.0,592.0
-South Africa,True,South Africa,64.01,360474.0,405271.0,6766.0
-South Sudan,True,South Sudan,11.94,6150.0,4616.0,423.0
-Spain,True,Spain,47.91,1323059.0,1415874.0,29771.0
-Sri Lanka,True,Sri Lanka,23.1,88460.0,76187.0,3490.0
-State of Palestine,True,Palestine,5.5,15613.0,19112.0,3640.0
-Sudan,True,Sudan,50.45,87367.0,36729.0,784.0
-Suriname,True,Suriname,0.63,4414.0,3621.0,5859.0
-Sweden,True,Sweden,10.61,587122.0,591189.0,56040.0
-Switzerland,True,Switzerland,8.92,790319.0,818427.0,93636.0
-Syrian Arab Republic,True,Syria,24.67,19285.0,18596.0,840.0
-Tajikistan,True,Tajikistan,10.59,13506.0,10492.0,1054.0
-Thailand,True,Thailand,71.67,450126.0,495341.0,6909.0
-Timor-Leste,True,Timor-Leste,1.4,2161.0,3205.0,2389.0
-Togo,True,Togo,9.52,7886.0,8087.0,914.0
-Tokelau,True,Tokelau,0.0,,,
-Tonga,True,Tonga,0.1,430.0,488.0,4571.0
-Trinidad and Tobago,True,Trinidad and Tobago,1.51,21673.0,30053.0,19629.0
-Tunisia,True,Tunisia,12.28,50546.0,46181.0,3738.0
-Türkiye,True,Turkey,87.47,1194402.0,907118.0,10629.0
-Turkmenistan,True,Turkmenistan,7.49,37596.0,67009.0,10420.0
-Turks and Caicos Islands,True,Turks and Caicos Islands,0.05,870.0,1139.0,24918.0
-Tuvalu,True,Tuvalu,0.01,45.0,59.0,5219.0
-Uganda,True,Uganda,50.02,40038.0,48243.0,1021.0
-Ukraine,True,Ukraine,37.86,71984.0,160503.0,4043.0
-United Arab Emirates,True,United Arab Emirates,11.03,431441.0,507064.0,53708.0
-United Kingdom,True,United Kingdom,69.14,3209502.0,3089073.0,45758.0
-United Rep. of Tanzania,True,Tanzania,68.56,71243.0,73535.0,1154.0
-United States of America,True,United States,345.43,21236276.0,25744100.0,76101.0
-United States Virgin Islands,True,U.S. Virgin Islands,0.08,,,
-Uruguay,True,Uruguay,3.39,62822.0,71171.0,20793.0
-Uzbekistan,True,Uzbekistan,36.36,123819.0,80392.0,2322.0
-Vanuatu,True,Vanuatu,0.33,849.0,985.0,3015.0
-Venezuela (Boliv. Rep. of),True,Venezuela,28.41,106672.0,129314.0,4569.0
-Viet Nam,True,Vietnam,100.99,358918.0,408802.0,4164.0
-Wallis and Futuna Islands,True,Wallis and Futuna Islands,0.01,,,
-Western Sahara,True,Western Sahara,0.59,,,
-Yemen,True,Yemen,40.58,19294.0,11007.0,327.0
-Zambia,True,Zambia,21.32,25727.0,29137.0,1456.0
-Zimbabwe,True,Zimbabwe,16.63,21572.0,26419.0,1619.0
-LLDCs,False,LLDCs,592.79,,,
-LDC§,False,LDC§,1188.01,,,
-SIDS,False,SIDS,73.46,,,
+area,is_country,area_standard_name,population_2024,gdp_constant_2015_prices_2022,gdp_current_prices_2022,gdp_per_capita_2022,area_status
+"Total, all countries or areas",False,World,8161.97,90126325.0,100834796.0,12647.0,region
+Africa,False,Africa,1515.14,2875884.0,2870757.0,2015.0,continent
+Northern Africa,False,Northern Africa,272.13,959918.0,855580.0,3298.0,region
+Sub-Saharan Africa,False,Sub-Saharan Africa,1243.01,1915966.0,2015177.0,1729.0,region
+Eastern Africa,False,Eastern Africa,500.7,455154.0,512915.0,1087.0,region
+Middle Africa,False,Middle Africa,212.92,254834.0,287184.0,1465.0,region
+Southern Africa,False,Southern Africa,73.14,395964.0,444845.0,6485.0,region
+Western Africa,False,Western Africa,456.25,810013.0,770232.0,1795.0,region
+Americas,False,Americas,1048.76,28714113.0,34020481.0,32842.0,region
+Northern America,False,Northern America,385.3,22994457.0,27892511.0,74012.0,region
+Latin America & the Caribbean,False,Latin America & the Caribbean,663.47,5719657.0,6127970.0,9298.0,region
+Caribbean,False,Caribbean,44.44,367262.0,483941.0,11135.0,region
+Central America,False,Central America,183.41,1573131.0,1785939.0,9974.0,region
+South America,False,South America,435.61,3779263.0,3858090.0,8839.0,continent
+Asia,False,Asia,4806.9,35357380.0,38004625.0,8049.0,continent
+Central Asia,False,Central Asia,82.23,410564.0,394320.0,5118.0,region
+Eastern Asia,False,Eastern Asia,1656.12,23619905.0,25047265.0,15063.0,region
+South-central Asia,False,South-central Asia,2146.28,,,,region
+South-eastern Asia,False,South-eastern Asia,695.15,3243635.0,3630588.0,5330.0,region
+Southern Asia,False,Southern Asia,2064.06,4433025.0,4761901.0,2372.0,region
+Western Asia,False,Western Asia,309.35,3650250.0,4170551.0,14217.0,region
+Europe,False,Europe,745.08,21442846.0,23858902.0,32001.0,continent
+Eastern Europe,False,Eastern Europe,285.0,3009950.0,4150508.0,14331.0,region
+Northern Europe,False,Northern Europe,108.96,5481446.0,5652647.0,53207.0,region
+Southern Europe,False,Southern Europe,151.25,3972260.0,4226047.0,27853.0,region
+Western Europe,False,Western Europe,199.86,8979190.0,9829701.0,49648.0,region
+Oceania,False,Oceania,46.09,1736101.0,2080031.0,46473.0,continent
+Australia and New Zealand,False,Australia and New Zealand,31.93,1686770.0,2022422.0,64485.0,region
+Melanesia,False,Melanesia,12.94,40804.0,48795.0,3931.0,region
+Micronesia,False,Micronesia,0.53,1051.0,1304.0,4105.0,region
+Polynesia,False,Polynesia,0.69,7477.0,7509.0,11312.0,region
+Afghanistan,True,Afghanistan,42.65,16049.0,14175.0,345.0,country
+Albania,True,Albania,2.79,14320.0,18916.0,6655.0,country
+Algeria,True,Algeria,46.81,179428.0,191913.0,4274.0,country
+American Samoa,True,American Samoa,0.05,,,,country
+Andorra,True,Andorra,0.08,3169.0,3376.0,42293.0,country
+Angola,True,Angola,37.89,108990.0,113305.0,3184.0,country
+Anguilla,True,Anguilla,0.01,339.0,453.0,28561.0,country
+Antigua and Barbuda,True,Antigua and Barbuda,0.09,1554.0,1770.0,18880.0,country
+Argentina,True,Argentina,45.7,648767.0,631133.0,13868.0,country
+Armenia,True,Armenia,2.97,14239.0,19514.0,7018.0,country
+Aruba,True,Aruba,0.11,3459.0,3545.0,33301.0,country
+Australia,True,Australia,26.71,1465797.0,1776577.0,67867.0,country
+Austria,True,Austria,9.12,422065.0,470302.0,52609.0,country
+Azerbaijan,True,Azerbaijan,10.34,56597.0,78721.0,7600.0,country
+Bahamas,True,Bahamas,0.4,12456.0,12897.0,31458.0,country
+Bahrain,True,Bahrain,1.61,35898.0,44383.0,30147.0,country
+Bangladesh,True,Bangladesh,173.56,364957.0,432677.0,2528.0,country
+Barbados,True,Barbados,0.28,4672.0,5700.0,20239.0,country
+Belarus,True,Belarus,9.06,57270.0,72874.0,7643.0,country
+Belgium,True,Belgium,11.74,516126.0,582643.0,49987.0,country
+Belize,True,Belize,0.42,2509.0,2831.0,6984.0,country
+Benin,True,Benin,14.46,16753.0,17397.0,1303.0,country
+Bermuda,True,Bermuda,0.06,6755.0,7546.0,117568.0,country
+Bhutan,True,Bhutan,0.79,2589.0,2898.0,3704.0,country
+Bolivia (Plurin. State of),True,Bolivia,12.41,38320.0,44008.0,3600.0,country
+"Bonaire, St. Eustatius & Saba",True,"Bonaire, Saint Eustatius and Saba",0.03,,,,country
+Bosnia and Herzegovina,True,Bosnia and Herzegovina,3.16,20254.0,24474.0,7569.0,country
+Botswana,True,Botswana,2.52,17510.0,20352.0,7738.0,country
+Brazil,True,Brazil,212.0,1901461.0,1920095.0,8918.0,country
+British Virgin Islands,True,British Virgin Islands,0.04,1537.0,1471.0,46997.0,country
+Brunei Darussalam,True,Brunei Darussalam,0.46,13000.0,16682.0,37152.0,country
+Bulgaria,True,Bulgaria,6.76,61692.0,90213.0,13302.0,country
+Burkina Faso,True,Burkina Faso,23.55,16535.0,19177.0,846.0,country
+Burundi,True,Burundi,14.05,3490.0,4033.0,313.0,country
+Cabo Verde,True,Cabo Verde,0.52,2160.0,2315.0,3903.0,country
+Cambodia,True,Cambodia,17.64,24972.0,29505.0,1760.0,country
+Cameroon,True,Cameroon,29.12,40321.0,44342.0,1588.0,country
+Canada,True,Canada,39.74,1748638.0,2137939.0,55597.0,country
+Cayman Islands,True,Cayman Islands,0.07,5471.0,6281.0,91420.0,country
+Central African Republic,True,Central African Republic,5.33,2031.0,2396.0,429.0,country
+Chad,True,Chad,20.3,15039.0,16799.0,948.0,country
+Chile,True,Chile,19.76,281778.0,300686.0,15338.0,country
+China,True,China,1419.32,16325036.0,17963171.0,12598.0,country
+"China, Hong Kong SAR",True,Hong Kong,7.41,318598.0,359839.0,48050.0,country
+"China, Macao SAR",True,Macau,0.72,22581.0,24042.0,34585.0,country
+Colombia,True,Colombia,52.89,354937.0,343939.0,6630.0,country
+Comoros,True,Comoros,0.87,1240.0,1247.0,1490.0,country
+Congo,True,Congo Republic,6.33,10244.0,15345.0,2570.0,country
+Cook Islands,True,Cook Islands,0.01,306.0,290.0,17033.0,country
+Costa Rica,True,Costa Rica,5.13,69286.0,68381.0,13199.0,country
+Côte d’Ivoire,True,Cote d'Ivoire,31.93,68386.0,70019.0,2486.0,country
+Croatia,True,Croatia,3.88,63413.0,71552.0,17753.0,country
+Cuba,True,Cuba,10.98,83597.0,147194.0,13128.0,country
+Curaçao,True,Curacao,0.19,2608.0,3075.0,16087.0,country
+Cyprus,True,Cyprus,1.36,27893.0,29211.0,32999.0,country
+Czechia,True,Czechia,10.74,215976.0,290528.0,27685.0,country
+Dem. People's Rep. Korea,True,North Korea,26.5,14959.0,15176.0,590.0,country
+Dem. Rep. of the Congo,True,DR Congo,109.28,52172.0,62552.0,632.0,country
+Denmark,True,Denmark,5.98,356222.0,400167.0,68029.0,country
+Djibouti,True,Djibouti,1.17,3356.0,4003.0,3572.0,country
+Dominica,True,Dominica,0.07,535.0,612.0,8415.0,country
+Dominican Republic,True,Dominican Republic,11.43,98037.0,113537.0,10111.0,country
+Ecuador,True,Ecuador,18.14,100635.0,115049.0,6391.0,country
+Egypt,True,Egypt,116.54,461269.0,409307.0,3688.0,country
+El Salvador,True,El Salvador,6.34,27097.0,32489.0,5127.0,country
+Equatorial Guinea,True,Equatorial Guinea,1.89,9836.0,11767.0,7026.0,country
+Eritrea,True,Eritrea,3.54,2398.0,2383.0,647.0,country
+Estonia,True,Estonia,1.36,28507.0,38049.0,28693.0,country
+Eswatini,True,Eswatini,1.24,4600.0,4327.0,3601.0,country
+Ethiopia,True,Ethiopia,132.06,101535.0,118972.0,964.0,country
+Falkland Islands (Malvinas),True,Falkland Islands,0.0,,,,country
+Faroe Islands,True,Faroe Islands,0.06,,,,country
+Fiji,True,Fiji,0.93,4932.0,4980.0,5356.0,country
+Finland,True,Finland,5.62,260638.0,282512.0,50988.0,country
+France,True,France,66.55,2637346.0,2775317.0,41426.0,country
+French Guiana,True,French Guiana,0.31,,,,country
+French Polynesia,True,French Polynesia,0.28,5897.0,5815.0,18985.0,country
+Gabon,True,Gabon,2.54,15819.0,20132.0,8427.0,country
+Gambia,True,Gambia,2.76,1863.0,2232.0,825.0,country
+Georgia,True,Georgia,3.81,20139.0,24605.0,6571.0,country
+Germany,True,Germany,84.55,3632118.0,4076924.0,48902.0,country
+Ghana,True,Ghana,34.43,68868.0,73766.0,2204.0,country
+Gibraltar,True,Gibraltar,0.04,,,,country
+Greece,True,Greece,10.05,211453.0,217286.0,20923.0,country
+Greenland,True,Greenland,0.06,2788.0,2926.0,51821.0,country
+Grenada,True,Grenada,0.12,1063.0,1193.0,9509.0,country
+Guadeloupe,True,Guadeloupe,0.38,,,,country
+Guam,True,Guam,0.17,,,,country
+Guatemala,True,Guatemala,18.41,78182.0,95003.0,5324.0,country
+Guernsey,True,Guernsey,0.06,,,,country
+Guinea,True,Guinea,14.75,13906.0,20846.0,1504.0,country
+Guinea-Bissau,True,Guinea-Bissau,2.2,1439.0,1574.0,748.0,country
+Guyana,True,Guyana,0.83,14268.0,14718.0,18199.0,country
+Haiti,True,Haiti,11.77,13829.0,18751.0,1619.0,country
+Honduras,True,Honduras,10.83,25954.0,31718.0,3040.0,country
+Hungary,True,Hungary,9.68,157531.0,177337.0,17792.0,country
+Iceland,True,Iceland,0.39,21556.0,28065.0,75260.0,country
+India,True,India,1450.94,3022292.0,3465541.0,2445.0,country
+Indonesia,True,Indonesia,283.49,1122285.0,1319100.0,4788.0,country
+Iran (Islamic Republic of),True,Iran,91.57,498444.0,398048.0,4495.0,country
+Iraq,True,Iraq,46.04,192926.0,264182.0,5937.0,country
+Ireland,True,Ireland,5.26,498760.0,532416.0,105993.0,country
+Isle of Man,True,Isle of Man,0.08,,,,country
+Israel,True,Israel,9.39,408208.0,525002.0,58086.0,country
+Italy,True,Italy,59.34,1960827.0,2046953.0,34672.0,country
+Jamaica,True,Jamaica,2.84,14675.0,17098.0,6047.0,country
+Japan,True,Japan,123.75,4509358.0,4232174.0,34144.0,country
+Jersey,True,Jersey,0.1,,,,country
+Jordan,True,Jordan,11.55,43120.0,47452.0,4205.0,country
+Kazakhstan,True,Kazakhstan,20.59,227399.0,225496.0,11625.0,country
+Kenya,True,Kenya,56.43,94829.0,113420.0,2099.0,country
+Kiribati,True,Kiribati,0.13,187.0,224.0,1704.0,country
+Kosovo,True,Kosovo,1.68,8322.0,9397.0,5662.0,country
+Kuwait,True,Kuwait,4.93,114893.0,175363.0,41079.0,country
+Kyrgyzstan,True,Kyrgyz Republic,7.19,8244.0,10931.0,1649.0,country
+Lao People's Dem. Rep.,True,Laos,7.77,20585.0,15363.0,2040.0,country
+Latvia,True,Latvia,1.87,32089.0,40876.0,22088.0,country
+Lebanon,True,Lebanon,5.81,31160.0,39303.0,7159.0,country
+Lesotho,True,Lesotho,2.34,2192.0,2287.0,992.0,country
+Liberia,True,Liberia,5.61,2878.0,3265.0,616.0,country
+Libya,True,Libya,7.38,44923.0,40537.0,5951.0,country
+Liechtenstein,True,Liechtenstein,0.04,6885.0,7758.0,197268.0,country
+Lithuania,True,Lithuania,2.86,52464.0,70878.0,25773.0,country
+Luxembourg,True,Luxembourg,0.67,71626.0,81531.0,125897.0,country
+Madagascar,True,Madagascar,31.97,13440.0,14955.0,505.0,country
+Malawi,True,Malawi,21.66,11487.0,12559.0,615.0,country
+Malaysia,True,Malaysia,35.56,385944.0,406306.0,11972.0,country
+Maldives,True,Maldives,0.53,5780.0,6171.0,11781.0,country
+Mali,True,Mali,24.48,19314.0,18827.0,833.0,country
+Malta,True,Malta,0.54,16128.0,18101.0,33942.0,country
+Marshall Islands,True,Marshall Islands,0.04,225.0,280.0,6728.0,country
+Martinique,True,Martinique,0.34,,,,country
+Mauritania,True,Mauritania,5.17,7955.0,10997.0,2322.0,country
+Mauritius,True,Mauritius,1.27,13311.0,12898.0,9926.0,country
+Mayotte,True,Mayotte,0.33,,,,country
+Mexico,True,Mexico,130.86,1285063.0,1463324.0,11477.0,country
+Micronesia (Fed. States of),True,"Micronesia, Fed. Sts.",0.11,314.0,427.0,3741.0,country
+Monaco,True,Monaco,0.04,8336.0,8772.0,240535.0,country
+Mongolia,True,Mongolia,3.48,14442.0,17146.0,5046.0,country
+Montenegro,True,Montenegro,0.64,4867.0,6230.0,9935.0,country
+Montserrat,True,Montserrat,0.0,81.0,72.0,16461.0,country
+Morocco,True,Morocco,38.08,136387.0,130913.0,3495.0,country
+Mozambique,True,Mozambique,34.63,19464.0,18407.0,558.0,country
+Myanmar,True,Myanmar,54.5,78243.0,65212.0,1204.0,country
+Namibia,True,Namibia,3.03,11187.0,12607.0,4911.0,country
+Nauru,True,Nauru,0.01,114.0,148.0,11679.0,country
+Nepal,True,Nepal,29.65,32142.0,39407.0,1290.0,country
+Netherlands (Kingdom of the),True,Netherlands,18.23,894368.0,1008027.0,57392.0,country
+New Caledonia,True,New Caledonia,0.29,8674.0,9623.0,33190.0,country
+New Zealand,True,New Zealand,5.21,220973.0,245845.0,47412.0,country
+Nicaragua,True,Nicaragua,6.92,14729.0,15672.0,2255.0,country
+Niger,True,Niger,27.03,14338.0,15415.0,588.0,country
+Nigeria,True,Nigeria,232.68,537025.0,475059.0,2174.0,country
+Niue,True,Niue,0.0,,,,country
+North Macedonia,True,North Macedonia,1.82,11386.0,13711.0,6549.0,country
+Northern Mariana Islands,True,Northern Mariana Islands,0.04,,,,country
+Norway,True,Norway,5.58,434585.0,579422.0,106623.0,country
+Oman,True,Oman,5.28,86295.0,114667.0,25057.0,country
+Other non-specified areas,False,Other non-specified areas,23.21,,,,region
+Pakistan,True,Pakistan,251.27,402312.0,326797.0,1386.0,country
+Palau,True,Palau,0.02,210.0,226.0,12498.0,country
+Panama,True,Panama,4.52,70310.0,76523.0,17358.0,country
+Papua New Guinea,True,Papua New Guinea,10.58,24977.0,31610.0,3117.0,country
+Paraguay,True,Paraguay,6.93,41996.0,41722.0,6153.0,country
+Peru,True,Peru,34.22,223194.0,242632.0,7126.0,country
+Philippines,True,Philippines,115.84,407690.0,404284.0,3499.0,country
+Poland,True,Poland,38.54,630290.0,688125.0,17265.0,country
+Portugal,True,Portugal,10.43,230232.0,254850.0,24813.0,country
+Puerto Rico,True,Puerto Rico,3.24,95855.0,113435.0,34877.0,country
+Qatar,True,Qatar,3.05,171752.0,237101.0,87974.0,country
+Republic of Korea,True,South Korea,51.72,1740553.0,1673917.0,32305.0,country
+Republic of Moldova,True,Moldova,3.04,9004.0,14510.0,4433.0,country
+Réunion,True,Reunion,0.88,,,,country
+Romania,True,Romania,19.02,232157.0,300691.0,15295.0,country
+Russian Federation,True,Russia,144.82,1471546.0,2240422.0,15482.0,country
+Rwanda,True,Rwanda,14.26,12934.0,13313.0,966.0,country
+Saint Barthélemy,True,St. Barths,0.01,,,,country
+Saint Helena,True,St. Helena,0.01,,,,country
+Saint Kitts and Nevis,True,St. Kitts and Nevis,0.05,963.0,979.0,20547.0,country
+Saint Lucia,True,St. Lucia,0.18,1899.0,2165.0,12038.0,country
+Saint Martin (French part),True,Saint-Martin,0.03,,,,country
+Saint Pierre and Miquelon,True,St. Pierre and Miquelon,0.01,,,,country
+Saint Vincent & Grenadines,True,St. Vincent and the Grenadines,0.1,884.0,947.0,9107.0,country
+Samoa,True,Samoa,0.22,798.0,857.0,3855.0,country
+San Marino,True,San Marino,0.03,1601.0,1781.0,52903.0,country
+Sao Tome and Principe,True,Sao Tome and Principe,0.24,381.0,547.0,2405.0,country
+Saudi Arabia,True,Saudi Arabia,33.96,767097.0,1108149.0,30436.0,country
+Senegal,True,Senegal,18.5,25302.0,27776.0,1604.0,country
+Serbia,True,Serbia,6.74,49711.0,63563.0,8802.0,country
+Seychelles,True,Seychelles,0.13,1869.0,1995.0,18623.0,country
+Sierra Leone,True,Sierra Leone,8.64,5406.0,3481.0,405.0,country
+Singapore,True,Singapore,5.83,379709.0,466789.0,78115.0,country
+Sint Maarten (Dutch part),True,Sint Maarten,0.04,1204.0,1573.0,35607.0,country
+Slovakia,True,Slovakia,5.51,102499.0,115305.0,20432.0,country
+Slovenia,True,Slovenia,2.12,53517.0,59982.0,28295.0,country
+Solomon Islands,True,Solomon Islands,0.82,1371.0,1597.0,2205.0,country
+Somalia,True,Somalia,19.01,9319.0,10420.0,592.0,country
+South Africa,True,South Africa,64.01,360474.0,405271.0,6766.0,country
+South Sudan,True,South Sudan,11.94,6150.0,4616.0,423.0,country
+Spain,True,Spain,47.91,1323059.0,1415874.0,29771.0,country
+Sri Lanka,True,Sri Lanka,23.1,88460.0,76187.0,3490.0,country
+State of Palestine,True,Palestine,5.5,15613.0,19112.0,3640.0,country
+Sudan,True,Sudan,50.45,87367.0,36729.0,784.0,country
+Suriname,True,Suriname,0.63,4414.0,3621.0,5859.0,country
+Sweden,True,Sweden,10.61,587122.0,591189.0,56040.0,country
+Switzerland,True,Switzerland,8.92,790319.0,818427.0,93636.0,country
+Syrian Arab Republic,True,Syria,24.67,19285.0,18596.0,840.0,country
+Tajikistan,True,Tajikistan,10.59,13506.0,10492.0,1054.0,country
+Thailand,True,Thailand,71.67,450126.0,495341.0,6909.0,country
+Timor-Leste,True,Timor-Leste,1.4,2161.0,3205.0,2389.0,country
+Togo,True,Togo,9.52,7886.0,8087.0,914.0,country
+Tokelau,True,Tokelau,0.0,,,,country
+Tonga,True,Tonga,0.1,430.0,488.0,4571.0,country
+Trinidad and Tobago,True,Trinidad and Tobago,1.51,21673.0,30053.0,19629.0,country
+Tunisia,True,Tunisia,12.28,50546.0,46181.0,3738.0,country
+Türkiye,True,Turkey,87.47,1194402.0,907118.0,10629.0,country
+Turkmenistan,True,Turkmenistan,7.49,37596.0,67009.0,10420.0,country
+Turks and Caicos Islands,True,Turks and Caicos Islands,0.05,870.0,1139.0,24918.0,country
+Tuvalu,True,Tuvalu,0.01,45.0,59.0,5219.0,country
+Uganda,True,Uganda,50.02,40038.0,48243.0,1021.0,country
+Ukraine,True,Ukraine,37.86,71984.0,160503.0,4043.0,country
+United Arab Emirates,True,United Arab Emirates,11.03,431441.0,507064.0,53708.0,country
+United Kingdom,True,United Kingdom,69.14,3209502.0,3089073.0,45758.0,country
+United Rep. of Tanzania,True,Tanzania,68.56,71243.0,73535.0,1154.0,country
+United States of America,True,United States,345.43,21236276.0,25744100.0,76101.0,country
+United States Virgin Islands,True,U.S. Virgin Islands,0.08,,,,country
+Uruguay,True,Uruguay,3.39,62822.0,71171.0,20793.0,country
+Uzbekistan,True,Uzbekistan,36.36,123819.0,80392.0,2322.0,country
+Vanuatu,True,Vanuatu,0.33,849.0,985.0,3015.0,country
+Venezuela (Boliv. Rep. of),True,Venezuela,28.41,106672.0,129314.0,4569.0,country
+Viet Nam,True,Vietnam,100.99,358918.0,408802.0,4164.0,country
+Wallis and Futuna Islands,True,Wallis and Futuna Islands,0.01,,,,country
+Western Sahara,True,Western Sahara,0.59,,,,country
+Yemen,True,Yemen,40.58,19294.0,11007.0,327.0,country
+Zambia,True,Zambia,21.32,25727.0,29137.0,1456.0,country
+Zimbabwe,True,Zimbabwe,16.63,21572.0,26419.0,1619.0,country
+LLDCs,False,LLDCs,592.79,,,,region
+LDC§,False,LDC§,1188.01,,,,region
+SIDS,False,SIDS,73.46,,,,region
