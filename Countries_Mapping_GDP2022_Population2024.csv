@@ -1,0 +1,1613 @@
+area,is_country,area_standard_name,population_2024,gdp_constant_2015_prices_2022,gdp_current_prices_2022,gdp_per_capita_2022,area_status,country_code
+"Total, all countries or areas",FALSE,World,8161.97,90126325,100834796,12647,region,NA
+Africa,FALSE,Africa,1515.14,2875884,2870757,2015,continent,NA
+Northern Africa,FALSE,Northern Africa,272.13,959918,855580,3298,region,NA
+Sub-Saharan Africa,FALSE,Sub-Saharan Africa,1243.01,1915966,2015177,1729,region,NA
+Eastern Africa,FALSE,Eastern Africa,500.7,455154,512915,1087,region,NA
+Middle Africa,FALSE,Middle Africa,212.92,254834,287184,1465,region,NA
+Southern Africa,FALSE,Southern Africa,73.14,395964,444845,6485,region,NA
+Western Africa,FALSE,Western Africa,456.25,810013,770232,1795,region,NA
+Americas,FALSE,Americas,1048.76,28714113,34020481,32842,region,NA
+Northern America,FALSE,Northern America,385.3,22994457,27892511,74012,region,NA
+Latin America & the Caribbean,FALSE,Latin America & the Caribbean,663.47,5719657,6127970,9298,region,NA
+Caribbean,FALSE,Caribbean,44.44,367262,483941,11135,region,NA
+Central America,FALSE,Central America,183.41,1573131,1785939,9974,region,NA
+South America,FALSE,South America,435.61,3779263,3858090,8839,continent,NA
+Asia,FALSE,Asia,4806.9,35357380,38004625,8049,continent,NA
+Central Asia,FALSE,Central Asia,82.23,410564,394320,5118,region,NA
+Eastern Asia,FALSE,Eastern Asia,1656.12,23619905,25047265,15063,region,NA
+South-central Asia,FALSE,South-central Asia,2146.28,NA,NA,NA,region,NA
+South-eastern Asia,FALSE,South-eastern Asia,695.15,3243635,3630588,5330,region,NA
+Southern Asia,FALSE,Southern Asia,2064.06,4433025,4761901,2372,region,NA
+Western Asia,FALSE,Western Asia,309.35,3650250,4170551,14217,region,NA
+Europe,FALSE,Europe,745.08,21442846,23858902,32001,continent,NA
+Eastern Europe,FALSE,Eastern Europe,285,3009950,4150508,14331,region,NA
+Northern Europe,FALSE,Northern Europe,108.96,5481446,5652647,53207,region,NA
+Southern Europe,FALSE,Southern Europe,151.25,3972260,4226047,27853,region,NA
+Western Europe,FALSE,Western Europe,199.86,8979190,9829701,49648,region,NA
+Oceania,FALSE,Oceania,46.09,1736101,2080031,46473,continent,NA
+Australia and New Zealand,FALSE,Australia and New Zealand,31.93,1686770,2022422,64485,region,NA
+Melanesia,FALSE,Melanesia,12.94,40804,48795,3931,region,NA
+Micronesia,FALSE,Micronesia,0.53,1051,1304,4105,region,NA
+Polynesia,FALSE,Polynesia,0.69,7477,7509,11312,region,NA
+Afghanistan,TRUE,Afghanistan,42.65,16049,14175,345,country,AFG
+Afghanistan,TRUE,Afghanistan,42.65,16049,14175,345,country,AFG
+Afghanistan,TRUE,Afghanistan,42.65,16049,14175,345,country,AFG
+Afghanistan,TRUE,Afghanistan,42.65,16049,14175,345,country,AFG
+Afghanistan,TRUE,Afghanistan,42.65,16049,14175,345,country,AFG
+Afghanistan,TRUE,Afghanistan,42.65,16049,14175,345,country,AFG
+Afghanistan,TRUE,Afghanistan,42.65,16049,14175,345,country,AFG
+Afghanistan,TRUE,Afghanistan,42.65,16049,14175,345,country,AFG
+Afghanistan,TRUE,Afghanistan,42.65,16049,14175,345,country,AFG
+Albania,TRUE,Albania,2.79,14320,18916,6655,country,ALB
+Albania,TRUE,Albania,2.79,14320,18916,6655,country,ALB
+Albania,TRUE,Albania,2.79,14320,18916,6655,country,ALB
+Albania,TRUE,Albania,2.79,14320,18916,6655,country,ALB
+Albania,TRUE,Albania,2.79,14320,18916,6655,country,ALB
+Albania,TRUE,Albania,2.79,14320,18916,6655,country,ALB
+Albania,TRUE,Albania,2.79,14320,18916,6655,country,ALB
+Albania,TRUE,Albania,2.79,14320,18916,6655,country,ALB
+Albania,TRUE,Albania,2.79,14320,18916,6655,country,ALB
+Albania,TRUE,Albania,2.79,14320,18916,6655,country,ALB
+Albania,TRUE,Albania,2.79,14320,18916,6655,country,ALB
+Albania,TRUE,Albania,2.79,14320,18916,6655,country,ALB
+Algeria,TRUE,Algeria,46.81,179428,191913,4274,country,DZA
+Algeria,TRUE,Algeria,46.81,179428,191913,4274,country,DZA
+Algeria,TRUE,Algeria,46.81,179428,191913,4274,country,DZA
+Algeria,TRUE,Algeria,46.81,179428,191913,4274,country,DZA
+Algeria,TRUE,Algeria,46.81,179428,191913,4274,country,DZA
+Algeria,TRUE,Algeria,46.81,179428,191913,4274,country,DZA
+Algeria,TRUE,Algeria,46.81,179428,191913,4274,country,DZA
+Algeria,TRUE,Algeria,46.81,179428,191913,4274,country,DZA
+Algeria,TRUE,Algeria,46.81,179428,191913,4274,country,DZA
+Algeria,TRUE,Algeria,46.81,179428,191913,4274,country,DZA
+Algeria,TRUE,Algeria,46.81,179428,191913,4274,country,DZA
+Algeria,TRUE,Algeria,46.81,179428,191913,4274,country,DZA
+American Samoa,TRUE,American Samoa,0.05,NA,NA,NA,country,NA
+Andorra,TRUE,Andorra,0.08,3169,3376,42293,country,NA
+Angola,TRUE,Angola,37.89,108990,113305,3184,country,AGO
+Angola,TRUE,Angola,37.89,108990,113305,3184,country,AGO
+Angola,TRUE,Angola,37.89,108990,113305,3184,country,AGO
+Angola,TRUE,Angola,37.89,108990,113305,3184,country,AGO
+Angola,TRUE,Angola,37.89,108990,113305,3184,country,AGO
+Angola,TRUE,Angola,37.89,108990,113305,3184,country,AGO
+Angola,TRUE,Angola,37.89,108990,113305,3184,country,AGO
+Angola,TRUE,Angola,37.89,108990,113305,3184,country,AGO
+Angola,TRUE,Angola,37.89,108990,113305,3184,country,AGO
+Anguilla,TRUE,Anguilla,0.01,339,453,28561,country,NA
+Antigua and Barbuda,TRUE,Antigua and Barbuda,0.09,1554,1770,18880,country,ATG
+Antigua and Barbuda,TRUE,Antigua and Barbuda,0.09,1554,1770,18880,country,ATG
+Antigua and Barbuda,TRUE,Antigua and Barbuda,0.09,1554,1770,18880,country,ATG
+Antigua and Barbuda,TRUE,Antigua and Barbuda,0.09,1554,1770,18880,country,ATG
+Antigua and Barbuda,TRUE,Antigua and Barbuda,0.09,1554,1770,18880,country,ATG
+Antigua and Barbuda,TRUE,Antigua and Barbuda,0.09,1554,1770,18880,country,ATG
+Argentina,TRUE,Argentina,45.7,648767,631133,13868,country,ARG
+Argentina,TRUE,Argentina,45.7,648767,631133,13868,country,ARG
+Argentina,TRUE,Argentina,45.7,648767,631133,13868,country,ARG
+Argentina,TRUE,Argentina,45.7,648767,631133,13868,country,ARG
+Argentina,TRUE,Argentina,45.7,648767,631133,13868,country,ARG
+Argentina,TRUE,Argentina,45.7,648767,631133,13868,country,ARG
+Argentina,TRUE,Argentina,45.7,648767,631133,13868,country,ARG
+Argentina,TRUE,Argentina,45.7,648767,631133,13868,country,ARG
+Argentina,TRUE,Argentina,45.7,648767,631133,13868,country,ARG
+Argentina,TRUE,Argentina,45.7,648767,631133,13868,country,ARG
+Argentina,TRUE,Argentina,45.7,648767,631133,13868,country,ARG
+Argentina,TRUE,Argentina,45.7,648767,631133,13868,country,ARG
+Armenia,TRUE,Armenia,2.97,14239,19514,7018,country,ARM
+Armenia,TRUE,Armenia,2.97,14239,19514,7018,country,ARM
+Armenia,TRUE,Armenia,2.97,14239,19514,7018,country,ARM
+Armenia,TRUE,Armenia,2.97,14239,19514,7018,country,ARM
+Armenia,TRUE,Armenia,2.97,14239,19514,7018,country,ARM
+Armenia,TRUE,Armenia,2.97,14239,19514,7018,country,ARM
+Armenia,TRUE,Armenia,2.97,14239,19514,7018,country,ARM
+Armenia,TRUE,Armenia,2.97,14239,19514,7018,country,ARM
+Armenia,TRUE,Armenia,2.97,14239,19514,7018,country,ARM
+Aruba,TRUE,Aruba,0.11,3459,3545,33301,country,NA
+Australia,TRUE,Australia,26.71,1465797,1776577,67867,country,AUS
+Australia,TRUE,Australia,26.71,1465797,1776577,67867,country,AUS
+Australia,TRUE,Australia,26.71,1465797,1776577,67867,country,AUS
+Australia,TRUE,Australia,26.71,1465797,1776577,67867,country,AUS
+Australia,TRUE,Australia,26.71,1465797,1776577,67867,country,AUS
+Australia,TRUE,Australia,26.71,1465797,1776577,67867,country,AUS
+Australia,TRUE,Australia,26.71,1465797,1776577,67867,country,AUS
+Australia,TRUE,Australia,26.71,1465797,1776577,67867,country,AUS
+Australia,TRUE,Australia,26.71,1465797,1776577,67867,country,AUS
+Australia,TRUE,Australia,26.71,1465797,1776577,67867,country,AUS
+Australia,TRUE,Australia,26.71,1465797,1776577,67867,country,AUS
+Australia,TRUE,Australia,26.71,1465797,1776577,67867,country,AUS
+Austria,TRUE,Austria,9.12,422065,470302,52609,country,AUT
+Austria,TRUE,Austria,9.12,422065,470302,52609,country,AUT
+Austria,TRUE,Austria,9.12,422065,470302,52609,country,AUT
+Austria,TRUE,Austria,9.12,422065,470302,52609,country,AUT
+Austria,TRUE,Austria,9.12,422065,470302,52609,country,AUT
+Austria,TRUE,Austria,9.12,422065,470302,52609,country,AUT
+Austria,TRUE,Austria,9.12,422065,470302,52609,country,AUT
+Austria,TRUE,Austria,9.12,422065,470302,52609,country,AUT
+Austria,TRUE,Austria,9.12,422065,470302,52609,country,AUT
+Austria,TRUE,Austria,9.12,422065,470302,52609,country,AUT
+Austria,TRUE,Austria,9.12,422065,470302,52609,country,AUT
+Austria,TRUE,Austria,9.12,422065,470302,52609,country,AUT
+Azerbaijan,TRUE,Azerbaijan,10.34,56597,78721,7600,country,AZE
+Azerbaijan,TRUE,Azerbaijan,10.34,56597,78721,7600,country,AZE
+Azerbaijan,TRUE,Azerbaijan,10.34,56597,78721,7600,country,AZE
+Azerbaijan,TRUE,Azerbaijan,10.34,56597,78721,7600,country,AZE
+Azerbaijan,TRUE,Azerbaijan,10.34,56597,78721,7600,country,AZE
+Azerbaijan,TRUE,Azerbaijan,10.34,56597,78721,7600,country,AZE
+Azerbaijan,TRUE,Azerbaijan,10.34,56597,78721,7600,country,AZE
+Azerbaijan,TRUE,Azerbaijan,10.34,56597,78721,7600,country,AZE
+Azerbaijan,TRUE,Azerbaijan,10.34,56597,78721,7600,country,AZE
+Azerbaijan,TRUE,Azerbaijan,10.34,56597,78721,7600,country,AZE
+Azerbaijan,TRUE,Azerbaijan,10.34,56597,78721,7600,country,AZE
+Azerbaijan,TRUE,Azerbaijan,10.34,56597,78721,7600,country,AZE
+Bahamas,TRUE,Bahamas,0.4,12456,12897,31458,country,NA
+Bahrain,TRUE,Bahrain,1.61,35898,44383,30147,country,BHR
+Bahrain,TRUE,Bahrain,1.61,35898,44383,30147,country,BHR
+Bahrain,TRUE,Bahrain,1.61,35898,44383,30147,country,BHR
+Bahrain,TRUE,Bahrain,1.61,35898,44383,30147,country,BHR
+Bahrain,TRUE,Bahrain,1.61,35898,44383,30147,country,BHR
+Bahrain,TRUE,Bahrain,1.61,35898,44383,30147,country,BHR
+Bahrain,TRUE,Bahrain,1.61,35898,44383,30147,country,BHR
+Bahrain,TRUE,Bahrain,1.61,35898,44383,30147,country,BHR
+Bahrain,TRUE,Bahrain,1.61,35898,44383,30147,country,BHR
+Bahrain,TRUE,Bahrain,1.61,35898,44383,30147,country,BHR
+Bahrain,TRUE,Bahrain,1.61,35898,44383,30147,country,BHR
+Bahrain,TRUE,Bahrain,1.61,35898,44383,30147,country,BHR
+Bangladesh,TRUE,Bangladesh,173.56,364957,432677,2528,country,BGD
+Bangladesh,TRUE,Bangladesh,173.56,364957,432677,2528,country,BGD
+Bangladesh,TRUE,Bangladesh,173.56,364957,432677,2528,country,BGD
+Bangladesh,TRUE,Bangladesh,173.56,364957,432677,2528,country,BGD
+Bangladesh,TRUE,Bangladesh,173.56,364957,432677,2528,country,BGD
+Bangladesh,TRUE,Bangladesh,173.56,364957,432677,2528,country,BGD
+Bangladesh,TRUE,Bangladesh,173.56,364957,432677,2528,country,BGD
+Bangladesh,TRUE,Bangladesh,173.56,364957,432677,2528,country,BGD
+Bangladesh,TRUE,Bangladesh,173.56,364957,432677,2528,country,BGD
+Barbados,TRUE,Barbados,0.28,4672,5700,20239,country,NA
+Belarus,TRUE,Belarus,9.06,57270,72874,7643,country,BLR
+Belarus,TRUE,Belarus,9.06,57270,72874,7643,country,BLR
+Belarus,TRUE,Belarus,9.06,57270,72874,7643,country,BLR
+Belgium,TRUE,Belgium,11.74,516126,582643,49987,country,BEL
+Belgium,TRUE,Belgium,11.74,516126,582643,49987,country,BEL
+Belgium,TRUE,Belgium,11.74,516126,582643,49987,country,BEL
+Belgium,TRUE,Belgium,11.74,516126,582643,49987,country,BEL
+Belgium,TRUE,Belgium,11.74,516126,582643,49987,country,BEL
+Belgium,TRUE,Belgium,11.74,516126,582643,49987,country,BEL
+Belgium,TRUE,Belgium,11.74,516126,582643,49987,country,BEL
+Belgium,TRUE,Belgium,11.74,516126,582643,49987,country,BEL
+Belgium,TRUE,Belgium,11.74,516126,582643,49987,country,BEL
+Belgium,TRUE,Belgium,11.74,516126,582643,49987,country,BEL
+Belgium,TRUE,Belgium,11.74,516126,582643,49987,country,BEL
+Belgium,TRUE,Belgium,11.74,516126,582643,49987,country,BEL
+Belize,TRUE,Belize,0.42,2509,2831,6984,country,NA
+Benin,TRUE,Benin,14.46,16753,17397,1303,country,BEN
+Benin,TRUE,Benin,14.46,16753,17397,1303,country,BEN
+Benin,TRUE,Benin,14.46,16753,17397,1303,country,BEN
+Benin,TRUE,Benin,14.46,16753,17397,1303,country,BEN
+Benin,TRUE,Benin,14.46,16753,17397,1303,country,BEN
+Benin,TRUE,Benin,14.46,16753,17397,1303,country,BEN
+Benin,TRUE,Benin,14.46,16753,17397,1303,country,BEN
+Benin,TRUE,Benin,14.46,16753,17397,1303,country,BEN
+Benin,TRUE,Benin,14.46,16753,17397,1303,country,BEN
+Benin,TRUE,Benin,14.46,16753,17397,1303,country,BEN
+Benin,TRUE,Benin,14.46,16753,17397,1303,country,BEN
+Benin,TRUE,Benin,14.46,16753,17397,1303,country,BEN
+Bermuda,TRUE,Bermuda,0.06,6755,7546,117568,country,NA
+Bhutan,TRUE,Bhutan,0.79,2589,2898,3704,country,BTN
+Bhutan,TRUE,Bhutan,0.79,2589,2898,3704,country,BTN
+Bhutan,TRUE,Bhutan,0.79,2589,2898,3704,country,BTN
+Bolivia (Plurin. State of),TRUE,Bolivia,12.41,38320,44008,3600,country,NA
+"Bonaire, St. Eustatius & Saba",TRUE,"Bonaire, Saint Eustatius and Saba",0.03,NA,NA,NA,country,NA
+Bosnia and Herzegovina,TRUE,Bosnia and Herzegovina,3.16,20254,24474,7569,country,BIH
+Bosnia and Herzegovina,TRUE,Bosnia and Herzegovina,3.16,20254,24474,7569,country,BIH
+Bosnia and Herzegovina,TRUE,Bosnia and Herzegovina,3.16,20254,24474,7569,country,BIH
+Bosnia and Herzegovina,TRUE,Bosnia and Herzegovina,3.16,20254,24474,7569,country,BIH
+Bosnia and Herzegovina,TRUE,Bosnia and Herzegovina,3.16,20254,24474,7569,country,BIH
+Bosnia and Herzegovina,TRUE,Bosnia and Herzegovina,3.16,20254,24474,7569,country,BIH
+Bosnia and Herzegovina,TRUE,Bosnia and Herzegovina,3.16,20254,24474,7569,country,BIH
+Bosnia and Herzegovina,TRUE,Bosnia and Herzegovina,3.16,20254,24474,7569,country,BIH
+Bosnia and Herzegovina,TRUE,Bosnia and Herzegovina,3.16,20254,24474,7569,country,BIH
+Bosnia and Herzegovina,TRUE,Bosnia and Herzegovina,3.16,20254,24474,7569,country,BIH
+Bosnia and Herzegovina,TRUE,Bosnia and Herzegovina,3.16,20254,24474,7569,country,BIH
+Bosnia and Herzegovina,TRUE,Bosnia and Herzegovina,3.16,20254,24474,7569,country,BIH
+Botswana,TRUE,Botswana,2.52,17510,20352,7738,country,BWA
+Botswana,TRUE,Botswana,2.52,17510,20352,7738,country,BWA
+Botswana,TRUE,Botswana,2.52,17510,20352,7738,country,BWA
+Botswana,TRUE,Botswana,2.52,17510,20352,7738,country,BWA
+Botswana,TRUE,Botswana,2.52,17510,20352,7738,country,BWA
+Botswana,TRUE,Botswana,2.52,17510,20352,7738,country,BWA
+Botswana,TRUE,Botswana,2.52,17510,20352,7738,country,BWA
+Botswana,TRUE,Botswana,2.52,17510,20352,7738,country,BWA
+Botswana,TRUE,Botswana,2.52,17510,20352,7738,country,BWA
+Botswana,TRUE,Botswana,2.52,17510,20352,7738,country,BWA
+Botswana,TRUE,Botswana,2.52,17510,20352,7738,country,BWA
+Botswana,TRUE,Botswana,2.52,17510,20352,7738,country,BWA
+Brazil,TRUE,Brazil,212,1901461,1920095,8918,country,BRA
+Brazil,TRUE,Brazil,212,1901461,1920095,8918,country,BRA
+Brazil,TRUE,Brazil,212,1901461,1920095,8918,country,BRA
+Brazil,TRUE,Brazil,212,1901461,1920095,8918,country,BRA
+Brazil,TRUE,Brazil,212,1901461,1920095,8918,country,BRA
+Brazil,TRUE,Brazil,212,1901461,1920095,8918,country,BRA
+Brazil,TRUE,Brazil,212,1901461,1920095,8918,country,BRA
+Brazil,TRUE,Brazil,212,1901461,1920095,8918,country,BRA
+Brazil,TRUE,Brazil,212,1901461,1920095,8918,country,BRA
+Brazil,TRUE,Brazil,212,1901461,1920095,8918,country,BRA
+Brazil,TRUE,Brazil,212,1901461,1920095,8918,country,BRA
+Brazil,TRUE,Brazil,212,1901461,1920095,8918,country,BRA
+British Virgin Islands,TRUE,British Virgin Islands,0.04,1537,1471,46997,country,NA
+Brunei Darussalam,TRUE,Brunei Darussalam,0.46,13000,16682,37152,country,BRN
+Brunei Darussalam,TRUE,Brunei Darussalam,0.46,13000,16682,37152,country,BRN
+Brunei Darussalam,TRUE,Brunei Darussalam,0.46,13000,16682,37152,country,BRN
+Bulgaria,TRUE,Bulgaria,6.76,61692,90213,13302,country,BGR
+Bulgaria,TRUE,Bulgaria,6.76,61692,90213,13302,country,BGR
+Bulgaria,TRUE,Bulgaria,6.76,61692,90213,13302,country,BGR
+Bulgaria,TRUE,Bulgaria,6.76,61692,90213,13302,country,BGR
+Bulgaria,TRUE,Bulgaria,6.76,61692,90213,13302,country,BGR
+Bulgaria,TRUE,Bulgaria,6.76,61692,90213,13302,country,BGR
+Bulgaria,TRUE,Bulgaria,6.76,61692,90213,13302,country,BGR
+Bulgaria,TRUE,Bulgaria,6.76,61692,90213,13302,country,BGR
+Bulgaria,TRUE,Bulgaria,6.76,61692,90213,13302,country,BGR
+Bulgaria,TRUE,Bulgaria,6.76,61692,90213,13302,country,BGR
+Bulgaria,TRUE,Bulgaria,6.76,61692,90213,13302,country,BGR
+Bulgaria,TRUE,Bulgaria,6.76,61692,90213,13302,country,BGR
+Burkina Faso,TRUE,Burkina Faso,23.55,16535,19177,846,country,BFA
+Burkina Faso,TRUE,Burkina Faso,23.55,16535,19177,846,country,BFA
+Burkina Faso,TRUE,Burkina Faso,23.55,16535,19177,846,country,BFA
+Burkina Faso,TRUE,Burkina Faso,23.55,16535,19177,846,country,BFA
+Burkina Faso,TRUE,Burkina Faso,23.55,16535,19177,846,country,BFA
+Burkina Faso,TRUE,Burkina Faso,23.55,16535,19177,846,country,BFA
+Burkina Faso,TRUE,Burkina Faso,23.55,16535,19177,846,country,BFA
+Burkina Faso,TRUE,Burkina Faso,23.55,16535,19177,846,country,BFA
+Burkina Faso,TRUE,Burkina Faso,23.55,16535,19177,846,country,BFA
+Burkina Faso,TRUE,Burkina Faso,23.55,16535,19177,846,country,BFA
+Burkina Faso,TRUE,Burkina Faso,23.55,16535,19177,846,country,BFA
+Burkina Faso,TRUE,Burkina Faso,23.55,16535,19177,846,country,BFA
+Burundi,TRUE,Burundi,14.05,3490,4033,313,country,BDI
+Burundi,TRUE,Burundi,14.05,3490,4033,313,country,BDI
+Burundi,TRUE,Burundi,14.05,3490,4033,313,country,BDI
+Burundi,TRUE,Burundi,14.05,3490,4033,313,country,BDI
+Burundi,TRUE,Burundi,14.05,3490,4033,313,country,BDI
+Burundi,TRUE,Burundi,14.05,3490,4033,313,country,BDI
+Burundi,TRUE,Burundi,14.05,3490,4033,313,country,BDI
+Burundi,TRUE,Burundi,14.05,3490,4033,313,country,BDI
+Burundi,TRUE,Burundi,14.05,3490,4033,313,country,BDI
+Burundi,TRUE,Burundi,14.05,3490,4033,313,country,BDI
+Burundi,TRUE,Burundi,14.05,3490,4033,313,country,BDI
+Burundi,TRUE,Burundi,14.05,3490,4033,313,country,BDI
+Cabo Verde,TRUE,Cabo Verde,0.52,2160,2315,3903,country,NA
+Cambodia,TRUE,Cambodia,17.64,24972,29505,1760,country,KHM
+Cambodia,TRUE,Cambodia,17.64,24972,29505,1760,country,KHM
+Cambodia,TRUE,Cambodia,17.64,24972,29505,1760,country,KHM
+Cameroon,TRUE,Cameroon,29.12,40321,44342,1588,country,CMR
+Cameroon,TRUE,Cameroon,29.12,40321,44342,1588,country,CMR
+Cameroon,TRUE,Cameroon,29.12,40321,44342,1588,country,CMR
+Cameroon,TRUE,Cameroon,29.12,40321,44342,1588,country,CMR
+Cameroon,TRUE,Cameroon,29.12,40321,44342,1588,country,CMR
+Cameroon,TRUE,Cameroon,29.12,40321,44342,1588,country,CMR
+Cameroon,TRUE,Cameroon,29.12,40321,44342,1588,country,CMR
+Cameroon,TRUE,Cameroon,29.12,40321,44342,1588,country,CMR
+Cameroon,TRUE,Cameroon,29.12,40321,44342,1588,country,CMR
+Cameroon,TRUE,Cameroon,29.12,40321,44342,1588,country,CMR
+Cameroon,TRUE,Cameroon,29.12,40321,44342,1588,country,CMR
+Cameroon,TRUE,Cameroon,29.12,40321,44342,1588,country,CMR
+Canada,TRUE,Canada,39.74,1748638,2137939,55597,country,CAN
+Canada,TRUE,Canada,39.74,1748638,2137939,55597,country,CAN
+Canada,TRUE,Canada,39.74,1748638,2137939,55597,country,CAN
+Canada,TRUE,Canada,39.74,1748638,2137939,55597,country,CAN
+Canada,TRUE,Canada,39.74,1748638,2137939,55597,country,CAN
+Canada,TRUE,Canada,39.74,1748638,2137939,55597,country,CAN
+Canada,TRUE,Canada,39.74,1748638,2137939,55597,country,CAN
+Canada,TRUE,Canada,39.74,1748638,2137939,55597,country,CAN
+Canada,TRUE,Canada,39.74,1748638,2137939,55597,country,CAN
+Canada,TRUE,Canada,39.74,1748638,2137939,55597,country,CAN
+Canada,TRUE,Canada,39.74,1748638,2137939,55597,country,CAN
+Canada,TRUE,Canada,39.74,1748638,2137939,55597,country,CAN
+Cayman Islands,TRUE,Cayman Islands,0.07,5471,6281,91420,country,NA
+Central African Republic,TRUE,Central African Republic,5.33,2031,2396,429,country,CAF
+Chad,TRUE,Chad,20.3,15039,16799,948,country,TCD
+Chad,TRUE,Chad,20.3,15039,16799,948,country,TCD
+Chad,TRUE,Chad,20.3,15039,16799,948,country,TCD
+Chad,TRUE,Chad,20.3,15039,16799,948,country,TCD
+Chad,TRUE,Chad,20.3,15039,16799,948,country,TCD
+Chad,TRUE,Chad,20.3,15039,16799,948,country,TCD
+Chad,TRUE,Chad,20.3,15039,16799,948,country,TCD
+Chad,TRUE,Chad,20.3,15039,16799,948,country,TCD
+Chad,TRUE,Chad,20.3,15039,16799,948,country,TCD
+Chad,TRUE,Chad,20.3,15039,16799,948,country,TCD
+Chad,TRUE,Chad,20.3,15039,16799,948,country,TCD
+Chad,TRUE,Chad,20.3,15039,16799,948,country,TCD
+Chile,TRUE,Chile,19.76,281778,300686,15338,country,CHL
+Chile,TRUE,Chile,19.76,281778,300686,15338,country,CHL
+Chile,TRUE,Chile,19.76,281778,300686,15338,country,CHL
+Chile,TRUE,Chile,19.76,281778,300686,15338,country,CHL
+Chile,TRUE,Chile,19.76,281778,300686,15338,country,CHL
+Chile,TRUE,Chile,19.76,281778,300686,15338,country,CHL
+Chile,TRUE,Chile,19.76,281778,300686,15338,country,CHL
+Chile,TRUE,Chile,19.76,281778,300686,15338,country,CHL
+Chile,TRUE,Chile,19.76,281778,300686,15338,country,CHL
+Chile,TRUE,Chile,19.76,281778,300686,15338,country,CHL
+Chile,TRUE,Chile,19.76,281778,300686,15338,country,CHL
+Chile,TRUE,Chile,19.76,281778,300686,15338,country,CHL
+China,TRUE,China,1419.32,16325036,17963171,12598,country,CHN
+China,TRUE,China,1419.32,16325036,17963171,12598,country,CHN
+China,TRUE,China,1419.32,16325036,17963171,12598,country,CHN
+China,TRUE,China,1419.32,16325036,17963171,12598,country,CHN
+China,TRUE,China,1419.32,16325036,17963171,12598,country,CHN
+China,TRUE,China,1419.32,16325036,17963171,12598,country,CHN
+China,TRUE,China,1419.32,16325036,17963171,12598,country,CHN
+China,TRUE,China,1419.32,16325036,17963171,12598,country,CHN
+China,TRUE,China,1419.32,16325036,17963171,12598,country,CHN
+"China, Hong Kong SAR",TRUE,Hong Kong,7.41,318598,359839,48050,country,NA
+"China, Macao SAR",TRUE,Macau,0.72,22581,24042,34585,country,NA
+Colombia,TRUE,Colombia,52.89,354937,343939,6630,country,COL
+Colombia,TRUE,Colombia,52.89,354937,343939,6630,country,COL
+Colombia,TRUE,Colombia,52.89,354937,343939,6630,country,COL
+Colombia,TRUE,Colombia,52.89,354937,343939,6630,country,COL
+Colombia,TRUE,Colombia,52.89,354937,343939,6630,country,COL
+Colombia,TRUE,Colombia,52.89,354937,343939,6630,country,COL
+Colombia,TRUE,Colombia,52.89,354937,343939,6630,country,COL
+Colombia,TRUE,Colombia,52.89,354937,343939,6630,country,COL
+Colombia,TRUE,Colombia,52.89,354937,343939,6630,country,COL
+Colombia,TRUE,Colombia,52.89,354937,343939,6630,country,COL
+Colombia,TRUE,Colombia,52.89,354937,343939,6630,country,COL
+Colombia,TRUE,Colombia,52.89,354937,343939,6630,country,COL
+Comoros,TRUE,Comoros,0.87,1240,1247,1490,country,COM
+Comoros,TRUE,Comoros,0.87,1240,1247,1490,country,COM
+Comoros,TRUE,Comoros,0.87,1240,1247,1490,country,COM
+Comoros,TRUE,Comoros,0.87,1240,1247,1490,country,COM
+Comoros,TRUE,Comoros,0.87,1240,1247,1490,country,COM
+Comoros,TRUE,Comoros,0.87,1240,1247,1490,country,COM
+Comoros,TRUE,Comoros,0.87,1240,1247,1490,country,COM
+Comoros,TRUE,Comoros,0.87,1240,1247,1490,country,COM
+Comoros,TRUE,Comoros,0.87,1240,1247,1490,country,COM
+Congo,TRUE,Congo Republic,6.33,10244,15345,2570,country,NA
+Cook Islands,TRUE,Cook Islands,0.01,306,290,17033,country,NA
+Costa Rica,TRUE,Costa Rica,5.13,69286,68381,13199,country,CRI
+Costa Rica,TRUE,Costa Rica,5.13,69286,68381,13199,country,CRI
+Costa Rica,TRUE,Costa Rica,5.13,69286,68381,13199,country,CRI
+Costa Rica,TRUE,Costa Rica,5.13,69286,68381,13199,country,CRI
+Costa Rica,TRUE,Costa Rica,5.13,69286,68381,13199,country,CRI
+Costa Rica,TRUE,Costa Rica,5.13,69286,68381,13199,country,CRI
+Costa Rica,TRUE,Costa Rica,5.13,69286,68381,13199,country,CRI
+Costa Rica,TRUE,Costa Rica,5.13,69286,68381,13199,country,CRI
+Costa Rica,TRUE,Costa Rica,5.13,69286,68381,13199,country,CRI
+Costa Rica,TRUE,Costa Rica,5.13,69286,68381,13199,country,CRI
+Costa Rica,TRUE,Costa Rica,5.13,69286,68381,13199,country,CRI
+Costa Rica,TRUE,Costa Rica,5.13,69286,68381,13199,country,CRI
+Côte d’Ivoire,TRUE,Cote d'Ivoire,31.93,68386,70019,2486,country,NA
+Croatia,TRUE,Croatia,3.88,63413,71552,17753,country,HRV
+Croatia,TRUE,Croatia,3.88,63413,71552,17753,country,HRV
+Croatia,TRUE,Croatia,3.88,63413,71552,17753,country,HRV
+Croatia,TRUE,Croatia,3.88,63413,71552,17753,country,HRV
+Croatia,TRUE,Croatia,3.88,63413,71552,17753,country,HRV
+Croatia,TRUE,Croatia,3.88,63413,71552,17753,country,HRV
+Croatia,TRUE,Croatia,3.88,63413,71552,17753,country,HRV
+Croatia,TRUE,Croatia,3.88,63413,71552,17753,country,HRV
+Croatia,TRUE,Croatia,3.88,63413,71552,17753,country,HRV
+Croatia,TRUE,Croatia,3.88,63413,71552,17753,country,HRV
+Croatia,TRUE,Croatia,3.88,63413,71552,17753,country,HRV
+Croatia,TRUE,Croatia,3.88,63413,71552,17753,country,HRV
+Cuba,TRUE,Cuba,10.98,83597,147194,13128,country,NA
+Curaçao,TRUE,Curacao,0.19,2608,3075,16087,country,NA
+Cyprus,TRUE,Cyprus,1.36,27893,29211,32999,country,CYP
+Cyprus,TRUE,Cyprus,1.36,27893,29211,32999,country,CYP
+Cyprus,TRUE,Cyprus,1.36,27893,29211,32999,country,CYP
+Cyprus,TRUE,Cyprus,1.36,27893,29211,32999,country,CYP
+Cyprus,TRUE,Cyprus,1.36,27893,29211,32999,country,CYP
+Cyprus,TRUE,Cyprus,1.36,27893,29211,32999,country,CYP
+Cyprus,TRUE,Cyprus,1.36,27893,29211,32999,country,CYP
+Cyprus,TRUE,Cyprus,1.36,27893,29211,32999,country,CYP
+Cyprus,TRUE,Cyprus,1.36,27893,29211,32999,country,CYP
+Cyprus,TRUE,Cyprus,1.36,27893,29211,32999,country,CYP
+Cyprus,TRUE,Cyprus,1.36,27893,29211,32999,country,CYP
+Cyprus,TRUE,Cyprus,1.36,27893,29211,32999,country,CYP
+Czechia,TRUE,Czechia,10.74,215976,290528,27685,country,CZE
+Czechia,TRUE,Czechia,10.74,215976,290528,27685,country,CZE
+Czechia,TRUE,Czechia,10.74,215976,290528,27685,country,CZE
+Czechia,TRUE,Czechia,10.74,215976,290528,27685,country,CZE
+Czechia,TRUE,Czechia,10.74,215976,290528,27685,country,CZE
+Czechia,TRUE,Czechia,10.74,215976,290528,27685,country,CZE
+Czechia,TRUE,Czechia,10.74,215976,290528,27685,country,CZE
+Czechia,TRUE,Czechia,10.74,215976,290528,27685,country,CZE
+Czechia,TRUE,Czechia,10.74,215976,290528,27685,country,CZE
+Czechia,TRUE,Czechia,10.74,215976,290528,27685,country,CZE
+Czechia,TRUE,Czechia,10.74,215976,290528,27685,country,CZE
+Czechia,TRUE,Czechia,10.74,215976,290528,27685,country,CZE
+Dem. People's Rep. Korea,TRUE,North Korea,26.5,14959,15176,590,country,NA
+Dem. Rep. of the Congo,TRUE,DR Congo,109.28,52172,62552,632,country,NA
+Denmark,TRUE,Denmark,5.98,356222,400167,68029,country,DNK
+Denmark,TRUE,Denmark,5.98,356222,400167,68029,country,DNK
+Denmark,TRUE,Denmark,5.98,356222,400167,68029,country,DNK
+Denmark,TRUE,Denmark,5.98,356222,400167,68029,country,DNK
+Denmark,TRUE,Denmark,5.98,356222,400167,68029,country,DNK
+Denmark,TRUE,Denmark,5.98,356222,400167,68029,country,DNK
+Denmark,TRUE,Denmark,5.98,356222,400167,68029,country,DNK
+Denmark,TRUE,Denmark,5.98,356222,400167,68029,country,DNK
+Denmark,TRUE,Denmark,5.98,356222,400167,68029,country,DNK
+Denmark,TRUE,Denmark,5.98,356222,400167,68029,country,DNK
+Denmark,TRUE,Denmark,5.98,356222,400167,68029,country,DNK
+Denmark,TRUE,Denmark,5.98,356222,400167,68029,country,DNK
+Djibouti,TRUE,Djibouti,1.17,3356,4003,3572,country,NA
+Dominica,TRUE,Dominica,0.07,535,612,8415,country,DMA
+Dominica,TRUE,Dominica,0.07,535,612,8415,country,DMA
+Dominica,TRUE,Dominica,0.07,535,612,8415,country,DMA
+Dominica,TRUE,Dominica,0.07,535,612,8415,country,DMA
+Dominica,TRUE,Dominica,0.07,535,612,8415,country,DMA
+Dominica,TRUE,Dominica,0.07,535,612,8415,country,DMA
+Dominican Republic,TRUE,Dominican Republic,11.43,98037,113537,10111,country,DOM
+Dominican Republic,TRUE,Dominican Republic,11.43,98037,113537,10111,country,DOM
+Dominican Republic,TRUE,Dominican Republic,11.43,98037,113537,10111,country,DOM
+Dominican Republic,TRUE,Dominican Republic,11.43,98037,113537,10111,country,DOM
+Dominican Republic,TRUE,Dominican Republic,11.43,98037,113537,10111,country,DOM
+Dominican Republic,TRUE,Dominican Republic,11.43,98037,113537,10111,country,DOM
+Dominican Republic,TRUE,Dominican Republic,11.43,98037,113537,10111,country,DOM
+Dominican Republic,TRUE,Dominican Republic,11.43,98037,113537,10111,country,DOM
+Dominican Republic,TRUE,Dominican Republic,11.43,98037,113537,10111,country,DOM
+Ecuador,TRUE,Ecuador,18.14,100635,115049,6391,country,ECU
+Ecuador,TRUE,Ecuador,18.14,100635,115049,6391,country,ECU
+Ecuador,TRUE,Ecuador,18.14,100635,115049,6391,country,ECU
+Ecuador,TRUE,Ecuador,18.14,100635,115049,6391,country,ECU
+Ecuador,TRUE,Ecuador,18.14,100635,115049,6391,country,ECU
+Ecuador,TRUE,Ecuador,18.14,100635,115049,6391,country,ECU
+Ecuador,TRUE,Ecuador,18.14,100635,115049,6391,country,ECU
+Ecuador,TRUE,Ecuador,18.14,100635,115049,6391,country,ECU
+Ecuador,TRUE,Ecuador,18.14,100635,115049,6391,country,ECU
+Ecuador,TRUE,Ecuador,18.14,100635,115049,6391,country,ECU
+Ecuador,TRUE,Ecuador,18.14,100635,115049,6391,country,ECU
+Ecuador,TRUE,Ecuador,18.14,100635,115049,6391,country,ECU
+Egypt,TRUE,Egypt,116.54,461269,409307,3688,country,NA
+El Salvador,TRUE,El Salvador,6.34,27097,32489,5127,country,SLV
+El Salvador,TRUE,El Salvador,6.34,27097,32489,5127,country,SLV
+El Salvador,TRUE,El Salvador,6.34,27097,32489,5127,country,SLV
+El Salvador,TRUE,El Salvador,6.34,27097,32489,5127,country,SLV
+El Salvador,TRUE,El Salvador,6.34,27097,32489,5127,country,SLV
+El Salvador,TRUE,El Salvador,6.34,27097,32489,5127,country,SLV
+El Salvador,TRUE,El Salvador,6.34,27097,32489,5127,country,SLV
+El Salvador,TRUE,El Salvador,6.34,27097,32489,5127,country,SLV
+El Salvador,TRUE,El Salvador,6.34,27097,32489,5127,country,SLV
+Equatorial Guinea,TRUE,Equatorial Guinea,1.89,9836,11767,7026,country,NA
+Eritrea,TRUE,Eritrea,3.54,2398,2383,647,country,NA
+Estonia,TRUE,Estonia,1.36,28507,38049,28693,country,EST
+Estonia,TRUE,Estonia,1.36,28507,38049,28693,country,EST
+Estonia,TRUE,Estonia,1.36,28507,38049,28693,country,EST
+Estonia,TRUE,Estonia,1.36,28507,38049,28693,country,EST
+Estonia,TRUE,Estonia,1.36,28507,38049,28693,country,EST
+Estonia,TRUE,Estonia,1.36,28507,38049,28693,country,EST
+Estonia,TRUE,Estonia,1.36,28507,38049,28693,country,EST
+Estonia,TRUE,Estonia,1.36,28507,38049,28693,country,EST
+Estonia,TRUE,Estonia,1.36,28507,38049,28693,country,EST
+Estonia,TRUE,Estonia,1.36,28507,38049,28693,country,EST
+Estonia,TRUE,Estonia,1.36,28507,38049,28693,country,EST
+Estonia,TRUE,Estonia,1.36,28507,38049,28693,country,EST
+Eswatini,TRUE,Eswatini,1.24,4600,4327,3601,country,SWZ
+Eswatini,TRUE,Eswatini,1.24,4600,4327,3601,country,SWZ
+Eswatini,TRUE,Eswatini,1.24,4600,4327,3601,country,SWZ
+Eswatini,TRUE,Eswatini,1.24,4600,4327,3601,country,SWZ
+Eswatini,TRUE,Eswatini,1.24,4600,4327,3601,country,SWZ
+Eswatini,TRUE,Eswatini,1.24,4600,4327,3601,country,SWZ
+Ethiopia,TRUE,Ethiopia,132.06,101535,118972,964,country,ETH
+Ethiopia,TRUE,Ethiopia,132.06,101535,118972,964,country,ETH
+Ethiopia,TRUE,Ethiopia,132.06,101535,118972,964,country,ETH
+Ethiopia,TRUE,Ethiopia,132.06,101535,118972,964,country,ETH
+Ethiopia,TRUE,Ethiopia,132.06,101535,118972,964,country,ETH
+Ethiopia,TRUE,Ethiopia,132.06,101535,118972,964,country,ETH
+Ethiopia,TRUE,Ethiopia,132.06,101535,118972,964,country,ETH
+Ethiopia,TRUE,Ethiopia,132.06,101535,118972,964,country,ETH
+Ethiopia,TRUE,Ethiopia,132.06,101535,118972,964,country,ETH
+Falkland Islands (Malvinas),TRUE,Falkland Islands,0,NA,NA,NA,country,NA
+Faroe Islands,TRUE,Faroe Islands,0.06,NA,NA,NA,country,NA
+Fiji,TRUE,Fiji,0.93,4932,4980,5356,country,FJI
+Fiji,TRUE,Fiji,0.93,4932,4980,5356,country,FJI
+Fiji,TRUE,Fiji,0.93,4932,4980,5356,country,FJI
+Finland,TRUE,Finland,5.62,260638,282512,50988,country,FIN
+Finland,TRUE,Finland,5.62,260638,282512,50988,country,FIN
+Finland,TRUE,Finland,5.62,260638,282512,50988,country,FIN
+Finland,TRUE,Finland,5.62,260638,282512,50988,country,FIN
+Finland,TRUE,Finland,5.62,260638,282512,50988,country,FIN
+Finland,TRUE,Finland,5.62,260638,282512,50988,country,FIN
+Finland,TRUE,Finland,5.62,260638,282512,50988,country,FIN
+Finland,TRUE,Finland,5.62,260638,282512,50988,country,FIN
+Finland,TRUE,Finland,5.62,260638,282512,50988,country,FIN
+Finland,TRUE,Finland,5.62,260638,282512,50988,country,FIN
+Finland,TRUE,Finland,5.62,260638,282512,50988,country,FIN
+Finland,TRUE,Finland,5.62,260638,282512,50988,country,FIN
+France,TRUE,France,66.55,2637346,2775317,41426,country,FRA
+France,TRUE,France,66.55,2637346,2775317,41426,country,FRA
+France,TRUE,France,66.55,2637346,2775317,41426,country,FRA
+France,TRUE,France,66.55,2637346,2775317,41426,country,FRA
+France,TRUE,France,66.55,2637346,2775317,41426,country,FRA
+France,TRUE,France,66.55,2637346,2775317,41426,country,FRA
+France,TRUE,France,66.55,2637346,2775317,41426,country,FRA
+France,TRUE,France,66.55,2637346,2775317,41426,country,FRA
+France,TRUE,France,66.55,2637346,2775317,41426,country,FRA
+France,TRUE,France,66.55,2637346,2775317,41426,country,FRA
+France,TRUE,France,66.55,2637346,2775317,41426,country,FRA
+France,TRUE,France,66.55,2637346,2775317,41426,country,FRA
+French Guiana,TRUE,French Guiana,0.31,NA,NA,NA,country,NA
+French Polynesia,TRUE,French Polynesia,0.28,5897,5815,18985,country,NA
+Gabon,TRUE,Gabon,2.54,15819,20132,8427,country,GAB
+Gabon,TRUE,Gabon,2.54,15819,20132,8427,country,GAB
+Gabon,TRUE,Gabon,2.54,15819,20132,8427,country,GAB
+Gabon,TRUE,Gabon,2.54,15819,20132,8427,country,GAB
+Gabon,TRUE,Gabon,2.54,15819,20132,8427,country,GAB
+Gabon,TRUE,Gabon,2.54,15819,20132,8427,country,GAB
+Gabon,TRUE,Gabon,2.54,15819,20132,8427,country,GAB
+Gabon,TRUE,Gabon,2.54,15819,20132,8427,country,GAB
+Gabon,TRUE,Gabon,2.54,15819,20132,8427,country,GAB
+Gambia,TRUE,Gambia,2.76,1863,2232,825,country,NA
+Georgia,TRUE,Georgia,3.81,20139,24605,6571,country,GEO
+Georgia,TRUE,Georgia,3.81,20139,24605,6571,country,GEO
+Georgia,TRUE,Georgia,3.81,20139,24605,6571,country,GEO
+Georgia,TRUE,Georgia,3.81,20139,24605,6571,country,GEO
+Georgia,TRUE,Georgia,3.81,20139,24605,6571,country,GEO
+Georgia,TRUE,Georgia,3.81,20139,24605,6571,country,GEO
+Georgia,TRUE,Georgia,3.81,20139,24605,6571,country,GEO
+Georgia,TRUE,Georgia,3.81,20139,24605,6571,country,GEO
+Georgia,TRUE,Georgia,3.81,20139,24605,6571,country,GEO
+Georgia,TRUE,Georgia,3.81,20139,24605,6571,country,GEO
+Georgia,TRUE,Georgia,3.81,20139,24605,6571,country,GEO
+Georgia,TRUE,Georgia,3.81,20139,24605,6571,country,GEO
+Germany,TRUE,Germany,84.55,3632118,4076924,48902,country,DEU
+Germany,TRUE,Germany,84.55,3632118,4076924,48902,country,DEU
+Germany,TRUE,Germany,84.55,3632118,4076924,48902,country,DEU
+Germany,TRUE,Germany,84.55,3632118,4076924,48902,country,DEU
+Germany,TRUE,Germany,84.55,3632118,4076924,48902,country,DEU
+Germany,TRUE,Germany,84.55,3632118,4076924,48902,country,DEU
+Germany,TRUE,Germany,84.55,3632118,4076924,48902,country,DEU
+Germany,TRUE,Germany,84.55,3632118,4076924,48902,country,DEU
+Germany,TRUE,Germany,84.55,3632118,4076924,48902,country,DEU
+Germany,TRUE,Germany,84.55,3632118,4076924,48902,country,DEU
+Germany,TRUE,Germany,84.55,3632118,4076924,48902,country,DEU
+Germany,TRUE,Germany,84.55,3632118,4076924,48902,country,DEU
+Ghana,TRUE,Ghana,34.43,68868,73766,2204,country,GHA
+Ghana,TRUE,Ghana,34.43,68868,73766,2204,country,GHA
+Ghana,TRUE,Ghana,34.43,68868,73766,2204,country,GHA
+Ghana,TRUE,Ghana,34.43,68868,73766,2204,country,GHA
+Ghana,TRUE,Ghana,34.43,68868,73766,2204,country,GHA
+Ghana,TRUE,Ghana,34.43,68868,73766,2204,country,GHA
+Ghana,TRUE,Ghana,34.43,68868,73766,2204,country,GHA
+Ghana,TRUE,Ghana,34.43,68868,73766,2204,country,GHA
+Ghana,TRUE,Ghana,34.43,68868,73766,2204,country,GHA
+Gibraltar,TRUE,Gibraltar,0.04,NA,NA,NA,country,NA
+Greece,TRUE,Greece,10.05,211453,217286,20923,country,GRC
+Greece,TRUE,Greece,10.05,211453,217286,20923,country,GRC
+Greece,TRUE,Greece,10.05,211453,217286,20923,country,GRC
+Greece,TRUE,Greece,10.05,211453,217286,20923,country,GRC
+Greece,TRUE,Greece,10.05,211453,217286,20923,country,GRC
+Greece,TRUE,Greece,10.05,211453,217286,20923,country,GRC
+Greece,TRUE,Greece,10.05,211453,217286,20923,country,GRC
+Greece,TRUE,Greece,10.05,211453,217286,20923,country,GRC
+Greece,TRUE,Greece,10.05,211453,217286,20923,country,GRC
+Greece,TRUE,Greece,10.05,211453,217286,20923,country,GRC
+Greece,TRUE,Greece,10.05,211453,217286,20923,country,GRC
+Greece,TRUE,Greece,10.05,211453,217286,20923,country,GRC
+Greenland,TRUE,Greenland,0.06,2788,2926,51821,country,NA
+Grenada,TRUE,Grenada,0.12,1063,1193,9509,country,GRD
+Grenada,TRUE,Grenada,0.12,1063,1193,9509,country,GRD
+Grenada,TRUE,Grenada,0.12,1063,1193,9509,country,GRD
+Grenada,TRUE,Grenada,0.12,1063,1193,9509,country,GRD
+Grenada,TRUE,Grenada,0.12,1063,1193,9509,country,GRD
+Grenada,TRUE,Grenada,0.12,1063,1193,9509,country,GRD
+Guadeloupe,TRUE,Guadeloupe,0.38,NA,NA,NA,country,NA
+Guam,TRUE,Guam,0.17,NA,NA,NA,country,NA
+Guatemala,TRUE,Guatemala,18.41,78182,95003,5324,country,GTM
+Guatemala,TRUE,Guatemala,18.41,78182,95003,5324,country,GTM
+Guatemala,TRUE,Guatemala,18.41,78182,95003,5324,country,GTM
+Guatemala,TRUE,Guatemala,18.41,78182,95003,5324,country,GTM
+Guatemala,TRUE,Guatemala,18.41,78182,95003,5324,country,GTM
+Guatemala,TRUE,Guatemala,18.41,78182,95003,5324,country,GTM
+Guatemala,TRUE,Guatemala,18.41,78182,95003,5324,country,GTM
+Guatemala,TRUE,Guatemala,18.41,78182,95003,5324,country,GTM
+Guatemala,TRUE,Guatemala,18.41,78182,95003,5324,country,GTM
+Guatemala,TRUE,Guatemala,18.41,78182,95003,5324,country,GTM
+Guatemala,TRUE,Guatemala,18.41,78182,95003,5324,country,GTM
+Guatemala,TRUE,Guatemala,18.41,78182,95003,5324,country,GTM
+Guernsey,TRUE,Guernsey,0.06,NA,NA,NA,country,NA
+Guinea,TRUE,Guinea,14.75,13906,20846,1504,country,GIN
+Guinea,TRUE,Guinea,14.75,13906,20846,1504,country,GIN
+Guinea,TRUE,Guinea,14.75,13906,20846,1504,country,GIN
+Guinea,TRUE,Guinea,14.75,13906,20846,1504,country,GIN
+Guinea,TRUE,Guinea,14.75,13906,20846,1504,country,GIN
+Guinea,TRUE,Guinea,14.75,13906,20846,1504,country,GIN
+Guinea,TRUE,Guinea,14.75,13906,20846,1504,country,GIN
+Guinea,TRUE,Guinea,14.75,13906,20846,1504,country,GIN
+Guinea,TRUE,Guinea,14.75,13906,20846,1504,country,GIN
+Guinea-Bissau,TRUE,Guinea-Bissau,2.2,1439,1574,748,country,NA
+Guyana,TRUE,Guyana,0.83,14268,14718,18199,country,GUY
+Guyana,TRUE,Guyana,0.83,14268,14718,18199,country,GUY
+Guyana,TRUE,Guyana,0.83,14268,14718,18199,country,GUY
+Guyana,TRUE,Guyana,0.83,14268,14718,18199,country,GUY
+Guyana,TRUE,Guyana,0.83,14268,14718,18199,country,GUY
+Guyana,TRUE,Guyana,0.83,14268,14718,18199,country,GUY
+Guyana,TRUE,Guyana,0.83,14268,14718,18199,country,GUY
+Guyana,TRUE,Guyana,0.83,14268,14718,18199,country,GUY
+Guyana,TRUE,Guyana,0.83,14268,14718,18199,country,GUY
+Haiti,TRUE,Haiti,11.77,13829,18751,1619,country,HTI
+Haiti,TRUE,Haiti,11.77,13829,18751,1619,country,HTI
+Haiti,TRUE,Haiti,11.77,13829,18751,1619,country,HTI
+Haiti,TRUE,Haiti,11.77,13829,18751,1619,country,HTI
+Haiti,TRUE,Haiti,11.77,13829,18751,1619,country,HTI
+Haiti,TRUE,Haiti,11.77,13829,18751,1619,country,HTI
+Haiti,TRUE,Haiti,11.77,13829,18751,1619,country,HTI
+Haiti,TRUE,Haiti,11.77,13829,18751,1619,country,HTI
+Haiti,TRUE,Haiti,11.77,13829,18751,1619,country,HTI
+Honduras,TRUE,Honduras,10.83,25954,31718,3040,country,HND
+Honduras,TRUE,Honduras,10.83,25954,31718,3040,country,HND
+Honduras,TRUE,Honduras,10.83,25954,31718,3040,country,HND
+Honduras,TRUE,Honduras,10.83,25954,31718,3040,country,HND
+Honduras,TRUE,Honduras,10.83,25954,31718,3040,country,HND
+Honduras,TRUE,Honduras,10.83,25954,31718,3040,country,HND
+Honduras,TRUE,Honduras,10.83,25954,31718,3040,country,HND
+Honduras,TRUE,Honduras,10.83,25954,31718,3040,country,HND
+Honduras,TRUE,Honduras,10.83,25954,31718,3040,country,HND
+Hungary,TRUE,Hungary,9.68,157531,177337,17792,country,HUN
+Hungary,TRUE,Hungary,9.68,157531,177337,17792,country,HUN
+Hungary,TRUE,Hungary,9.68,157531,177337,17792,country,HUN
+Hungary,TRUE,Hungary,9.68,157531,177337,17792,country,HUN
+Hungary,TRUE,Hungary,9.68,157531,177337,17792,country,HUN
+Hungary,TRUE,Hungary,9.68,157531,177337,17792,country,HUN
+Hungary,TRUE,Hungary,9.68,157531,177337,17792,country,HUN
+Hungary,TRUE,Hungary,9.68,157531,177337,17792,country,HUN
+Hungary,TRUE,Hungary,9.68,157531,177337,17792,country,HUN
+Hungary,TRUE,Hungary,9.68,157531,177337,17792,country,HUN
+Hungary,TRUE,Hungary,9.68,157531,177337,17792,country,HUN
+Hungary,TRUE,Hungary,9.68,157531,177337,17792,country,HUN
+Iceland,TRUE,Iceland,0.39,21556,28065,75260,country,ISL
+Iceland,TRUE,Iceland,0.39,21556,28065,75260,country,ISL
+Iceland,TRUE,Iceland,0.39,21556,28065,75260,country,ISL
+Iceland,TRUE,Iceland,0.39,21556,28065,75260,country,ISL
+Iceland,TRUE,Iceland,0.39,21556,28065,75260,country,ISL
+Iceland,TRUE,Iceland,0.39,21556,28065,75260,country,ISL
+Iceland,TRUE,Iceland,0.39,21556,28065,75260,country,ISL
+Iceland,TRUE,Iceland,0.39,21556,28065,75260,country,ISL
+Iceland,TRUE,Iceland,0.39,21556,28065,75260,country,ISL
+Iceland,TRUE,Iceland,0.39,21556,28065,75260,country,ISL
+Iceland,TRUE,Iceland,0.39,21556,28065,75260,country,ISL
+Iceland,TRUE,Iceland,0.39,21556,28065,75260,country,ISL
+India,TRUE,India,1450.94,3022292,3465541,2445,country,IND
+India,TRUE,India,1450.94,3022292,3465541,2445,country,IND
+India,TRUE,India,1450.94,3022292,3465541,2445,country,IND
+India,TRUE,India,1450.94,3022292,3465541,2445,country,IND
+India,TRUE,India,1450.94,3022292,3465541,2445,country,IND
+India,TRUE,India,1450.94,3022292,3465541,2445,country,IND
+India,TRUE,India,1450.94,3022292,3465541,2445,country,IND
+India,TRUE,India,1450.94,3022292,3465541,2445,country,IND
+India,TRUE,India,1450.94,3022292,3465541,2445,country,IND
+Indonesia,TRUE,Indonesia,283.49,1122285,1319100,4788,country,IDN
+Indonesia,TRUE,Indonesia,283.49,1122285,1319100,4788,country,IDN
+Indonesia,TRUE,Indonesia,283.49,1122285,1319100,4788,country,IDN
+Indonesia,TRUE,Indonesia,283.49,1122285,1319100,4788,country,IDN
+Indonesia,TRUE,Indonesia,283.49,1122285,1319100,4788,country,IDN
+Indonesia,TRUE,Indonesia,283.49,1122285,1319100,4788,country,IDN
+Indonesia,TRUE,Indonesia,283.49,1122285,1319100,4788,country,IDN
+Indonesia,TRUE,Indonesia,283.49,1122285,1319100,4788,country,IDN
+Indonesia,TRUE,Indonesia,283.49,1122285,1319100,4788,country,IDN
+Indonesia,TRUE,Indonesia,283.49,1122285,1319100,4788,country,IDN
+Indonesia,TRUE,Indonesia,283.49,1122285,1319100,4788,country,IDN
+Indonesia,TRUE,Indonesia,283.49,1122285,1319100,4788,country,IDN
+Iran (Islamic Republic of),TRUE,Iran,91.57,498444,398048,4495,country,NA
+Iraq,TRUE,Iraq,46.04,192926,264182,5937,country,IRQ
+Iraq,TRUE,Iraq,46.04,192926,264182,5937,country,IRQ
+Iraq,TRUE,Iraq,46.04,192926,264182,5937,country,IRQ
+Iraq,TRUE,Iraq,46.04,192926,264182,5937,country,IRQ
+Iraq,TRUE,Iraq,46.04,192926,264182,5937,country,IRQ
+Iraq,TRUE,Iraq,46.04,192926,264182,5937,country,IRQ
+Iraq,TRUE,Iraq,46.04,192926,264182,5937,country,IRQ
+Iraq,TRUE,Iraq,46.04,192926,264182,5937,country,IRQ
+Iraq,TRUE,Iraq,46.04,192926,264182,5937,country,IRQ
+Ireland,TRUE,Ireland,5.26,498760,532416,105993,country,IRL
+Ireland,TRUE,Ireland,5.26,498760,532416,105993,country,IRL
+Ireland,TRUE,Ireland,5.26,498760,532416,105993,country,IRL
+Ireland,TRUE,Ireland,5.26,498760,532416,105993,country,IRL
+Ireland,TRUE,Ireland,5.26,498760,532416,105993,country,IRL
+Ireland,TRUE,Ireland,5.26,498760,532416,105993,country,IRL
+Ireland,TRUE,Ireland,5.26,498760,532416,105993,country,IRL
+Ireland,TRUE,Ireland,5.26,498760,532416,105993,country,IRL
+Ireland,TRUE,Ireland,5.26,498760,532416,105993,country,IRL
+Ireland,TRUE,Ireland,5.26,498760,532416,105993,country,IRL
+Ireland,TRUE,Ireland,5.26,498760,532416,105993,country,IRL
+Ireland,TRUE,Ireland,5.26,498760,532416,105993,country,IRL
+Isle of Man,TRUE,Isle of Man,0.08,NA,NA,NA,country,NA
+Israel,TRUE,Israel,9.39,408208,525002,58086,country,ISR
+Israel,TRUE,Israel,9.39,408208,525002,58086,country,ISR
+Israel,TRUE,Israel,9.39,408208,525002,58086,country,ISR
+Israel,TRUE,Israel,9.39,408208,525002,58086,country,ISR
+Israel,TRUE,Israel,9.39,408208,525002,58086,country,ISR
+Israel,TRUE,Israel,9.39,408208,525002,58086,country,ISR
+Israel,TRUE,Israel,9.39,408208,525002,58086,country,ISR
+Israel,TRUE,Israel,9.39,408208,525002,58086,country,ISR
+Israel,TRUE,Israel,9.39,408208,525002,58086,country,ISR
+Israel,TRUE,Israel,9.39,408208,525002,58086,country,ISR
+Israel,TRUE,Israel,9.39,408208,525002,58086,country,ISR
+Israel,TRUE,Israel,9.39,408208,525002,58086,country,ISR
+Italy,TRUE,Italy,59.34,1960827,2046953,34672,country,ITA
+Italy,TRUE,Italy,59.34,1960827,2046953,34672,country,ITA
+Italy,TRUE,Italy,59.34,1960827,2046953,34672,country,ITA
+Italy,TRUE,Italy,59.34,1960827,2046953,34672,country,ITA
+Italy,TRUE,Italy,59.34,1960827,2046953,34672,country,ITA
+Italy,TRUE,Italy,59.34,1960827,2046953,34672,country,ITA
+Italy,TRUE,Italy,59.34,1960827,2046953,34672,country,ITA
+Italy,TRUE,Italy,59.34,1960827,2046953,34672,country,ITA
+Italy,TRUE,Italy,59.34,1960827,2046953,34672,country,ITA
+Italy,TRUE,Italy,59.34,1960827,2046953,34672,country,ITA
+Italy,TRUE,Italy,59.34,1960827,2046953,34672,country,ITA
+Italy,TRUE,Italy,59.34,1960827,2046953,34672,country,ITA
+Jamaica,TRUE,Jamaica,2.84,14675,17098,6047,country,JAM
+Jamaica,TRUE,Jamaica,2.84,14675,17098,6047,country,JAM
+Jamaica,TRUE,Jamaica,2.84,14675,17098,6047,country,JAM
+Jamaica,TRUE,Jamaica,2.84,14675,17098,6047,country,JAM
+Jamaica,TRUE,Jamaica,2.84,14675,17098,6047,country,JAM
+Jamaica,TRUE,Jamaica,2.84,14675,17098,6047,country,JAM
+Jamaica,TRUE,Jamaica,2.84,14675,17098,6047,country,JAM
+Jamaica,TRUE,Jamaica,2.84,14675,17098,6047,country,JAM
+Jamaica,TRUE,Jamaica,2.84,14675,17098,6047,country,JAM
+Japan,TRUE,Japan,123.75,4509358,4232174,34144,country,JPN
+Japan,TRUE,Japan,123.75,4509358,4232174,34144,country,JPN
+Japan,TRUE,Japan,123.75,4509358,4232174,34144,country,JPN
+Japan,TRUE,Japan,123.75,4509358,4232174,34144,country,JPN
+Japan,TRUE,Japan,123.75,4509358,4232174,34144,country,JPN
+Japan,TRUE,Japan,123.75,4509358,4232174,34144,country,JPN
+Japan,TRUE,Japan,123.75,4509358,4232174,34144,country,JPN
+Japan,TRUE,Japan,123.75,4509358,4232174,34144,country,JPN
+Japan,TRUE,Japan,123.75,4509358,4232174,34144,country,JPN
+Japan,TRUE,Japan,123.75,4509358,4232174,34144,country,JPN
+Japan,TRUE,Japan,123.75,4509358,4232174,34144,country,JPN
+Japan,TRUE,Japan,123.75,4509358,4232174,34144,country,JPN
+Jersey,TRUE,Jersey,0.1,NA,NA,NA,country,NA
+Jordan,TRUE,Jordan,11.55,43120,47452,4205,country,JOR
+Jordan,TRUE,Jordan,11.55,43120,47452,4205,country,JOR
+Jordan,TRUE,Jordan,11.55,43120,47452,4205,country,JOR
+Jordan,TRUE,Jordan,11.55,43120,47452,4205,country,JOR
+Jordan,TRUE,Jordan,11.55,43120,47452,4205,country,JOR
+Jordan,TRUE,Jordan,11.55,43120,47452,4205,country,JOR
+Jordan,TRUE,Jordan,11.55,43120,47452,4205,country,JOR
+Jordan,TRUE,Jordan,11.55,43120,47452,4205,country,JOR
+Jordan,TRUE,Jordan,11.55,43120,47452,4205,country,JOR
+Jordan,TRUE,Jordan,11.55,43120,47452,4205,country,JOR
+Jordan,TRUE,Jordan,11.55,43120,47452,4205,country,JOR
+Jordan,TRUE,Jordan,11.55,43120,47452,4205,country,JOR
+Kazakhstan,TRUE,Kazakhstan,20.59,227399,225496,11625,country,KAZ
+Kazakhstan,TRUE,Kazakhstan,20.59,227399,225496,11625,country,KAZ
+Kazakhstan,TRUE,Kazakhstan,20.59,227399,225496,11625,country,KAZ
+Kazakhstan,TRUE,Kazakhstan,20.59,227399,225496,11625,country,KAZ
+Kazakhstan,TRUE,Kazakhstan,20.59,227399,225496,11625,country,KAZ
+Kazakhstan,TRUE,Kazakhstan,20.59,227399,225496,11625,country,KAZ
+Kazakhstan,TRUE,Kazakhstan,20.59,227399,225496,11625,country,KAZ
+Kazakhstan,TRUE,Kazakhstan,20.59,227399,225496,11625,country,KAZ
+Kazakhstan,TRUE,Kazakhstan,20.59,227399,225496,11625,country,KAZ
+Kazakhstan,TRUE,Kazakhstan,20.59,227399,225496,11625,country,KAZ
+Kazakhstan,TRUE,Kazakhstan,20.59,227399,225496,11625,country,KAZ
+Kazakhstan,TRUE,Kazakhstan,20.59,227399,225496,11625,country,KAZ
+Kenya,TRUE,Kenya,56.43,94829,113420,2099,country,KEN
+Kenya,TRUE,Kenya,56.43,94829,113420,2099,country,KEN
+Kenya,TRUE,Kenya,56.43,94829,113420,2099,country,KEN
+Kenya,TRUE,Kenya,56.43,94829,113420,2099,country,KEN
+Kenya,TRUE,Kenya,56.43,94829,113420,2099,country,KEN
+Kenya,TRUE,Kenya,56.43,94829,113420,2099,country,KEN
+Kiribati,TRUE,Kiribati,0.13,187,224,1704,country,KIR
+Kiribati,TRUE,Kiribati,0.13,187,224,1704,country,KIR
+Kiribati,TRUE,Kiribati,0.13,187,224,1704,country,KIR
+Kiribati,TRUE,Kiribati,0.13,187,224,1704,country,KIR
+Kiribati,TRUE,Kiribati,0.13,187,224,1704,country,KIR
+Kiribati,TRUE,Kiribati,0.13,187,224,1704,country,KIR
+Kiribati,TRUE,Kiribati,0.13,187,224,1704,country,KIR
+Kiribati,TRUE,Kiribati,0.13,187,224,1704,country,KIR
+Kiribati,TRUE,Kiribati,0.13,187,224,1704,country,KIR
+Kosovo,TRUE,Kosovo,1.68,8322,9397,5662,country,XKX
+Kosovo,TRUE,Kosovo,1.68,8322,9397,5662,country,XKX
+Kosovo,TRUE,Kosovo,1.68,8322,9397,5662,country,XKX
+Kosovo,TRUE,Kosovo,1.68,8322,9397,5662,country,XKX
+Kosovo,TRUE,Kosovo,1.68,8322,9397,5662,country,XKX
+Kosovo,TRUE,Kosovo,1.68,8322,9397,5662,country,XKX
+Kosovo,TRUE,Kosovo,1.68,8322,9397,5662,country,XKX
+Kosovo,TRUE,Kosovo,1.68,8322,9397,5662,country,XKX
+Kosovo,TRUE,Kosovo,1.68,8322,9397,5662,country,XKX
+Kuwait,TRUE,Kuwait,4.93,114893,175363,41079,country,KWT
+Kuwait,TRUE,Kuwait,4.93,114893,175363,41079,country,KWT
+Kuwait,TRUE,Kuwait,4.93,114893,175363,41079,country,KWT
+Kuwait,TRUE,Kuwait,4.93,114893,175363,41079,country,KWT
+Kuwait,TRUE,Kuwait,4.93,114893,175363,41079,country,KWT
+Kuwait,TRUE,Kuwait,4.93,114893,175363,41079,country,KWT
+Kuwait,TRUE,Kuwait,4.93,114893,175363,41079,country,KWT
+Kuwait,TRUE,Kuwait,4.93,114893,175363,41079,country,KWT
+Kuwait,TRUE,Kuwait,4.93,114893,175363,41079,country,KWT
+Kuwait,TRUE,Kuwait,4.93,114893,175363,41079,country,KWT
+Kuwait,TRUE,Kuwait,4.93,114893,175363,41079,country,KWT
+Kuwait,TRUE,Kuwait,4.93,114893,175363,41079,country,KWT
+Kyrgyzstan,TRUE,Kyrgyz Republic,7.19,8244,10931,1649,country,NA
+Lao People's Dem. Rep.,TRUE,Laos,7.77,20585,15363,2040,country,NA
+Latvia,TRUE,Latvia,1.87,32089,40876,22088,country,LVA
+Latvia,TRUE,Latvia,1.87,32089,40876,22088,country,LVA
+Latvia,TRUE,Latvia,1.87,32089,40876,22088,country,LVA
+Latvia,TRUE,Latvia,1.87,32089,40876,22088,country,LVA
+Latvia,TRUE,Latvia,1.87,32089,40876,22088,country,LVA
+Latvia,TRUE,Latvia,1.87,32089,40876,22088,country,LVA
+Latvia,TRUE,Latvia,1.87,32089,40876,22088,country,LVA
+Latvia,TRUE,Latvia,1.87,32089,40876,22088,country,LVA
+Latvia,TRUE,Latvia,1.87,32089,40876,22088,country,LVA
+Latvia,TRUE,Latvia,1.87,32089,40876,22088,country,LVA
+Latvia,TRUE,Latvia,1.87,32089,40876,22088,country,LVA
+Latvia,TRUE,Latvia,1.87,32089,40876,22088,country,LVA
+Lebanon,TRUE,Lebanon,5.81,31160,39303,7159,country,LBN
+Lebanon,TRUE,Lebanon,5.81,31160,39303,7159,country,LBN
+Lebanon,TRUE,Lebanon,5.81,31160,39303,7159,country,LBN
+Lebanon,TRUE,Lebanon,5.81,31160,39303,7159,country,LBN
+Lebanon,TRUE,Lebanon,5.81,31160,39303,7159,country,LBN
+Lebanon,TRUE,Lebanon,5.81,31160,39303,7159,country,LBN
+Lebanon,TRUE,Lebanon,5.81,31160,39303,7159,country,LBN
+Lebanon,TRUE,Lebanon,5.81,31160,39303,7159,country,LBN
+Lebanon,TRUE,Lebanon,5.81,31160,39303,7159,country,LBN
+Lebanon,TRUE,Lebanon,5.81,31160,39303,7159,country,LBN
+Lebanon,TRUE,Lebanon,5.81,31160,39303,7159,country,LBN
+Lebanon,TRUE,Lebanon,5.81,31160,39303,7159,country,LBN
+Lesotho,TRUE,Lesotho,2.34,2192,2287,992,country,LSO
+Lesotho,TRUE,Lesotho,2.34,2192,2287,992,country,LSO
+Lesotho,TRUE,Lesotho,2.34,2192,2287,992,country,LSO
+Lesotho,TRUE,Lesotho,2.34,2192,2287,992,country,LSO
+Lesotho,TRUE,Lesotho,2.34,2192,2287,992,country,LSO
+Lesotho,TRUE,Lesotho,2.34,2192,2287,992,country,LSO
+Liberia,TRUE,Liberia,5.61,2878,3265,616,country,LBR
+Liberia,TRUE,Liberia,5.61,2878,3265,616,country,LBR
+Liberia,TRUE,Liberia,5.61,2878,3265,616,country,LBR
+Liberia,TRUE,Liberia,5.61,2878,3265,616,country,LBR
+Liberia,TRUE,Liberia,5.61,2878,3265,616,country,LBR
+Liberia,TRUE,Liberia,5.61,2878,3265,616,country,LBR
+Liberia,TRUE,Liberia,5.61,2878,3265,616,country,LBR
+Liberia,TRUE,Liberia,5.61,2878,3265,616,country,LBR
+Liberia,TRUE,Liberia,5.61,2878,3265,616,country,LBR
+Libya,TRUE,Libya,7.38,44923,40537,5951,country,NA
+Liechtenstein,TRUE,Liechtenstein,0.04,6885,7758,197268,country,NA
+Lithuania,TRUE,Lithuania,2.86,52464,70878,25773,country,LTU
+Lithuania,TRUE,Lithuania,2.86,52464,70878,25773,country,LTU
+Lithuania,TRUE,Lithuania,2.86,52464,70878,25773,country,LTU
+Lithuania,TRUE,Lithuania,2.86,52464,70878,25773,country,LTU
+Lithuania,TRUE,Lithuania,2.86,52464,70878,25773,country,LTU
+Lithuania,TRUE,Lithuania,2.86,52464,70878,25773,country,LTU
+Lithuania,TRUE,Lithuania,2.86,52464,70878,25773,country,LTU
+Lithuania,TRUE,Lithuania,2.86,52464,70878,25773,country,LTU
+Lithuania,TRUE,Lithuania,2.86,52464,70878,25773,country,LTU
+Lithuania,TRUE,Lithuania,2.86,52464,70878,25773,country,LTU
+Lithuania,TRUE,Lithuania,2.86,52464,70878,25773,country,LTU
+Lithuania,TRUE,Lithuania,2.86,52464,70878,25773,country,LTU
+Luxembourg,TRUE,Luxembourg,0.67,71626,81531,125897,country,LUX
+Luxembourg,TRUE,Luxembourg,0.67,71626,81531,125897,country,LUX
+Luxembourg,TRUE,Luxembourg,0.67,71626,81531,125897,country,LUX
+Luxembourg,TRUE,Luxembourg,0.67,71626,81531,125897,country,LUX
+Luxembourg,TRUE,Luxembourg,0.67,71626,81531,125897,country,LUX
+Luxembourg,TRUE,Luxembourg,0.67,71626,81531,125897,country,LUX
+Luxembourg,TRUE,Luxembourg,0.67,71626,81531,125897,country,LUX
+Luxembourg,TRUE,Luxembourg,0.67,71626,81531,125897,country,LUX
+Luxembourg,TRUE,Luxembourg,0.67,71626,81531,125897,country,LUX
+Luxembourg,TRUE,Luxembourg,0.67,71626,81531,125897,country,LUX
+Luxembourg,TRUE,Luxembourg,0.67,71626,81531,125897,country,LUX
+Luxembourg,TRUE,Luxembourg,0.67,71626,81531,125897,country,LUX
+Madagascar,TRUE,Madagascar,31.97,13440,14955,505,country,MDG
+Madagascar,TRUE,Madagascar,31.97,13440,14955,505,country,MDG
+Madagascar,TRUE,Madagascar,31.97,13440,14955,505,country,MDG
+Madagascar,TRUE,Madagascar,31.97,13440,14955,505,country,MDG
+Madagascar,TRUE,Madagascar,31.97,13440,14955,505,country,MDG
+Madagascar,TRUE,Madagascar,31.97,13440,14955,505,country,MDG
+Madagascar,TRUE,Madagascar,31.97,13440,14955,505,country,MDG
+Madagascar,TRUE,Madagascar,31.97,13440,14955,505,country,MDG
+Madagascar,TRUE,Madagascar,31.97,13440,14955,505,country,MDG
+Madagascar,TRUE,Madagascar,31.97,13440,14955,505,country,MDG
+Madagascar,TRUE,Madagascar,31.97,13440,14955,505,country,MDG
+Madagascar,TRUE,Madagascar,31.97,13440,14955,505,country,MDG
+Malawi,TRUE,Malawi,21.66,11487,12559,615,country,MWI
+Malawi,TRUE,Malawi,21.66,11487,12559,615,country,MWI
+Malawi,TRUE,Malawi,21.66,11487,12559,615,country,MWI
+Malawi,TRUE,Malawi,21.66,11487,12559,615,country,MWI
+Malawi,TRUE,Malawi,21.66,11487,12559,615,country,MWI
+Malawi,TRUE,Malawi,21.66,11487,12559,615,country,MWI
+Malaysia,TRUE,Malaysia,35.56,385944,406306,11972,country,MYS
+Malaysia,TRUE,Malaysia,35.56,385944,406306,11972,country,MYS
+Malaysia,TRUE,Malaysia,35.56,385944,406306,11972,country,MYS
+Malaysia,TRUE,Malaysia,35.56,385944,406306,11972,country,MYS
+Malaysia,TRUE,Malaysia,35.56,385944,406306,11972,country,MYS
+Malaysia,TRUE,Malaysia,35.56,385944,406306,11972,country,MYS
+Malaysia,TRUE,Malaysia,35.56,385944,406306,11972,country,MYS
+Malaysia,TRUE,Malaysia,35.56,385944,406306,11972,country,MYS
+Malaysia,TRUE,Malaysia,35.56,385944,406306,11972,country,MYS
+Malaysia,TRUE,Malaysia,35.56,385944,406306,11972,country,MYS
+Malaysia,TRUE,Malaysia,35.56,385944,406306,11972,country,MYS
+Malaysia,TRUE,Malaysia,35.56,385944,406306,11972,country,MYS
+Maldives,TRUE,Maldives,0.53,5780,6171,11781,country,NA
+Mali,TRUE,Mali,24.48,19314,18827,833,country,MLI
+Mali,TRUE,Mali,24.48,19314,18827,833,country,MLI
+Mali,TRUE,Mali,24.48,19314,18827,833,country,MLI
+Mali,TRUE,Mali,24.48,19314,18827,833,country,MLI
+Mali,TRUE,Mali,24.48,19314,18827,833,country,MLI
+Mali,TRUE,Mali,24.48,19314,18827,833,country,MLI
+Mali,TRUE,Mali,24.48,19314,18827,833,country,MLI
+Mali,TRUE,Mali,24.48,19314,18827,833,country,MLI
+Mali,TRUE,Mali,24.48,19314,18827,833,country,MLI
+Malta,TRUE,Malta,0.54,16128,18101,33942,country,MLT
+Malta,TRUE,Malta,0.54,16128,18101,33942,country,MLT
+Malta,TRUE,Malta,0.54,16128,18101,33942,country,MLT
+Malta,TRUE,Malta,0.54,16128,18101,33942,country,MLT
+Malta,TRUE,Malta,0.54,16128,18101,33942,country,MLT
+Malta,TRUE,Malta,0.54,16128,18101,33942,country,MLT
+Malta,TRUE,Malta,0.54,16128,18101,33942,country,MLT
+Malta,TRUE,Malta,0.54,16128,18101,33942,country,MLT
+Malta,TRUE,Malta,0.54,16128,18101,33942,country,MLT
+Malta,TRUE,Malta,0.54,16128,18101,33942,country,MLT
+Malta,TRUE,Malta,0.54,16128,18101,33942,country,MLT
+Malta,TRUE,Malta,0.54,16128,18101,33942,country,MLT
+Marshall Islands,TRUE,Marshall Islands,0.04,225,280,6728,country,MHL
+Marshall Islands,TRUE,Marshall Islands,0.04,225,280,6728,country,MHL
+Marshall Islands,TRUE,Marshall Islands,0.04,225,280,6728,country,MHL
+Marshall Islands,TRUE,Marshall Islands,0.04,225,280,6728,country,MHL
+Marshall Islands,TRUE,Marshall Islands,0.04,225,280,6728,country,MHL
+Marshall Islands,TRUE,Marshall Islands,0.04,225,280,6728,country,MHL
+Martinique,TRUE,Martinique,0.34,NA,NA,NA,country,NA
+Mauritania,TRUE,Mauritania,5.17,7955,10997,2322,country,MRT
+Mauritania,TRUE,Mauritania,5.17,7955,10997,2322,country,MRT
+Mauritania,TRUE,Mauritania,5.17,7955,10997,2322,country,MRT
+Mauritania,TRUE,Mauritania,5.17,7955,10997,2322,country,MRT
+Mauritania,TRUE,Mauritania,5.17,7955,10997,2322,country,MRT
+Mauritania,TRUE,Mauritania,5.17,7955,10997,2322,country,MRT
+Mauritania,TRUE,Mauritania,5.17,7955,10997,2322,country,MRT
+Mauritania,TRUE,Mauritania,5.17,7955,10997,2322,country,MRT
+Mauritania,TRUE,Mauritania,5.17,7955,10997,2322,country,MRT
+Mauritius,TRUE,Mauritius,1.27,13311,12898,9926,country,MUS
+Mauritius,TRUE,Mauritius,1.27,13311,12898,9926,country,MUS
+Mauritius,TRUE,Mauritius,1.27,13311,12898,9926,country,MUS
+Mauritius,TRUE,Mauritius,1.27,13311,12898,9926,country,MUS
+Mauritius,TRUE,Mauritius,1.27,13311,12898,9926,country,MUS
+Mauritius,TRUE,Mauritius,1.27,13311,12898,9926,country,MUS
+Mayotte,TRUE,Mayotte,0.33,NA,NA,NA,country,NA
+Mexico,TRUE,Mexico,130.86,1285063,1463324,11477,country,MEX
+Mexico,TRUE,Mexico,130.86,1285063,1463324,11477,country,MEX
+Mexico,TRUE,Mexico,130.86,1285063,1463324,11477,country,MEX
+Mexico,TRUE,Mexico,130.86,1285063,1463324,11477,country,MEX
+Mexico,TRUE,Mexico,130.86,1285063,1463324,11477,country,MEX
+Mexico,TRUE,Mexico,130.86,1285063,1463324,11477,country,MEX
+Mexico,TRUE,Mexico,130.86,1285063,1463324,11477,country,MEX
+Mexico,TRUE,Mexico,130.86,1285063,1463324,11477,country,MEX
+Mexico,TRUE,Mexico,130.86,1285063,1463324,11477,country,MEX
+Mexico,TRUE,Mexico,130.86,1285063,1463324,11477,country,MEX
+Mexico,TRUE,Mexico,130.86,1285063,1463324,11477,country,MEX
+Mexico,TRUE,Mexico,130.86,1285063,1463324,11477,country,MEX
+Micronesia (Fed. States of),TRUE,"Micronesia, Fed. Sts.",0.11,314,427,3741,country,NA
+Monaco,TRUE,Monaco,0.04,8336,8772,240535,country,NA
+Mongolia,TRUE,Mongolia,3.48,14442,17146,5046,country,MNG
+Mongolia,TRUE,Mongolia,3.48,14442,17146,5046,country,MNG
+Mongolia,TRUE,Mongolia,3.48,14442,17146,5046,country,MNG
+Mongolia,TRUE,Mongolia,3.48,14442,17146,5046,country,MNG
+Mongolia,TRUE,Mongolia,3.48,14442,17146,5046,country,MNG
+Mongolia,TRUE,Mongolia,3.48,14442,17146,5046,country,MNG
+Mongolia,TRUE,Mongolia,3.48,14442,17146,5046,country,MNG
+Mongolia,TRUE,Mongolia,3.48,14442,17146,5046,country,MNG
+Mongolia,TRUE,Mongolia,3.48,14442,17146,5046,country,MNG
+Montenegro,TRUE,Montenegro,0.64,4867,6230,9935,country,MNE
+Montenegro,TRUE,Montenegro,0.64,4867,6230,9935,country,MNE
+Montenegro,TRUE,Montenegro,0.64,4867,6230,9935,country,MNE
+Montenegro,TRUE,Montenegro,0.64,4867,6230,9935,country,MNE
+Montenegro,TRUE,Montenegro,0.64,4867,6230,9935,country,MNE
+Montenegro,TRUE,Montenegro,0.64,4867,6230,9935,country,MNE
+Montenegro,TRUE,Montenegro,0.64,4867,6230,9935,country,MNE
+Montenegro,TRUE,Montenegro,0.64,4867,6230,9935,country,MNE
+Montenegro,TRUE,Montenegro,0.64,4867,6230,9935,country,MNE
+Montenegro,TRUE,Montenegro,0.64,4867,6230,9935,country,MNE
+Montenegro,TRUE,Montenegro,0.64,4867,6230,9935,country,MNE
+Montenegro,TRUE,Montenegro,0.64,4867,6230,9935,country,MNE
+Montserrat,TRUE,Montserrat,0,81,72,16461,country,NA
+Morocco,TRUE,Morocco,38.08,136387,130913,3495,country,MAR
+Morocco,TRUE,Morocco,38.08,136387,130913,3495,country,MAR
+Morocco,TRUE,Morocco,38.08,136387,130913,3495,country,MAR
+Morocco,TRUE,Morocco,38.08,136387,130913,3495,country,MAR
+Morocco,TRUE,Morocco,38.08,136387,130913,3495,country,MAR
+Morocco,TRUE,Morocco,38.08,136387,130913,3495,country,MAR
+Morocco,TRUE,Morocco,38.08,136387,130913,3495,country,MAR
+Morocco,TRUE,Morocco,38.08,136387,130913,3495,country,MAR
+Morocco,TRUE,Morocco,38.08,136387,130913,3495,country,MAR
+Morocco,TRUE,Morocco,38.08,136387,130913,3495,country,MAR
+Morocco,TRUE,Morocco,38.08,136387,130913,3495,country,MAR
+Morocco,TRUE,Morocco,38.08,136387,130913,3495,country,MAR
+Mozambique,TRUE,Mozambique,34.63,19464,18407,558,country,MOZ
+Mozambique,TRUE,Mozambique,34.63,19464,18407,558,country,MOZ
+Mozambique,TRUE,Mozambique,34.63,19464,18407,558,country,MOZ
+Mozambique,TRUE,Mozambique,34.63,19464,18407,558,country,MOZ
+Mozambique,TRUE,Mozambique,34.63,19464,18407,558,country,MOZ
+Mozambique,TRUE,Mozambique,34.63,19464,18407,558,country,MOZ
+Mozambique,TRUE,Mozambique,34.63,19464,18407,558,country,MOZ
+Mozambique,TRUE,Mozambique,34.63,19464,18407,558,country,MOZ
+Mozambique,TRUE,Mozambique,34.63,19464,18407,558,country,MOZ
+Myanmar,TRUE,Myanmar,54.5,78243,65212,1204,country,MMR
+Myanmar,TRUE,Myanmar,54.5,78243,65212,1204,country,MMR
+Myanmar,TRUE,Myanmar,54.5,78243,65212,1204,country,MMR
+Myanmar,TRUE,Myanmar,54.5,78243,65212,1204,country,MMR
+Myanmar,TRUE,Myanmar,54.5,78243,65212,1204,country,MMR
+Myanmar,TRUE,Myanmar,54.5,78243,65212,1204,country,MMR
+Myanmar,TRUE,Myanmar,54.5,78243,65212,1204,country,MMR
+Myanmar,TRUE,Myanmar,54.5,78243,65212,1204,country,MMR
+Myanmar,TRUE,Myanmar,54.5,78243,65212,1204,country,MMR
+Namibia,TRUE,Namibia,3.03,11187,12607,4911,country,NAM
+Namibia,TRUE,Namibia,3.03,11187,12607,4911,country,NAM
+Namibia,TRUE,Namibia,3.03,11187,12607,4911,country,NAM
+Namibia,TRUE,Namibia,3.03,11187,12607,4911,country,NAM
+Namibia,TRUE,Namibia,3.03,11187,12607,4911,country,NAM
+Namibia,TRUE,Namibia,3.03,11187,12607,4911,country,NAM
+Nauru,TRUE,Nauru,0.01,114,148,11679,country,NRU
+Nauru,TRUE,Nauru,0.01,114,148,11679,country,NRU
+Nauru,TRUE,Nauru,0.01,114,148,11679,country,NRU
+Nepal,TRUE,Nepal,29.65,32142,39407,1290,country,NPL
+Nepal,TRUE,Nepal,29.65,32142,39407,1290,country,NPL
+Nepal,TRUE,Nepal,29.65,32142,39407,1290,country,NPL
+Netherlands (Kingdom of the),TRUE,Netherlands,18.23,894368,1008027,57392,country,NA
+New Caledonia,TRUE,New Caledonia,0.29,8674,9623,33190,country,NA
+New Zealand,TRUE,New Zealand,5.21,220973,245845,47412,country,NZL
+New Zealand,TRUE,New Zealand,5.21,220973,245845,47412,country,NZL
+New Zealand,TRUE,New Zealand,5.21,220973,245845,47412,country,NZL
+New Zealand,TRUE,New Zealand,5.21,220973,245845,47412,country,NZL
+New Zealand,TRUE,New Zealand,5.21,220973,245845,47412,country,NZL
+New Zealand,TRUE,New Zealand,5.21,220973,245845,47412,country,NZL
+New Zealand,TRUE,New Zealand,5.21,220973,245845,47412,country,NZL
+New Zealand,TRUE,New Zealand,5.21,220973,245845,47412,country,NZL
+New Zealand,TRUE,New Zealand,5.21,220973,245845,47412,country,NZL
+New Zealand,TRUE,New Zealand,5.21,220973,245845,47412,country,NZL
+New Zealand,TRUE,New Zealand,5.21,220973,245845,47412,country,NZL
+New Zealand,TRUE,New Zealand,5.21,220973,245845,47412,country,NZL
+Nicaragua,TRUE,Nicaragua,6.92,14729,15672,2255,country,NIC
+Nicaragua,TRUE,Nicaragua,6.92,14729,15672,2255,country,NIC
+Nicaragua,TRUE,Nicaragua,6.92,14729,15672,2255,country,NIC
+Nicaragua,TRUE,Nicaragua,6.92,14729,15672,2255,country,NIC
+Nicaragua,TRUE,Nicaragua,6.92,14729,15672,2255,country,NIC
+Nicaragua,TRUE,Nicaragua,6.92,14729,15672,2255,country,NIC
+Nicaragua,TRUE,Nicaragua,6.92,14729,15672,2255,country,NIC
+Nicaragua,TRUE,Nicaragua,6.92,14729,15672,2255,country,NIC
+Nicaragua,TRUE,Nicaragua,6.92,14729,15672,2255,country,NIC
+Niger,TRUE,Niger,27.03,14338,15415,588,country,NER
+Niger,TRUE,Niger,27.03,14338,15415,588,country,NER
+Niger,TRUE,Niger,27.03,14338,15415,588,country,NER
+Niger,TRUE,Niger,27.03,14338,15415,588,country,NER
+Niger,TRUE,Niger,27.03,14338,15415,588,country,NER
+Niger,TRUE,Niger,27.03,14338,15415,588,country,NER
+Niger,TRUE,Niger,27.03,14338,15415,588,country,NER
+Niger,TRUE,Niger,27.03,14338,15415,588,country,NER
+Niger,TRUE,Niger,27.03,14338,15415,588,country,NER
+Nigeria,TRUE,Nigeria,232.68,537025,475059,2174,country,NGA
+Nigeria,TRUE,Nigeria,232.68,537025,475059,2174,country,NGA
+Nigeria,TRUE,Nigeria,232.68,537025,475059,2174,country,NGA
+Nigeria,TRUE,Nigeria,232.68,537025,475059,2174,country,NGA
+Nigeria,TRUE,Nigeria,232.68,537025,475059,2174,country,NGA
+Nigeria,TRUE,Nigeria,232.68,537025,475059,2174,country,NGA
+Nigeria,TRUE,Nigeria,232.68,537025,475059,2174,country,NGA
+Nigeria,TRUE,Nigeria,232.68,537025,475059,2174,country,NGA
+Nigeria,TRUE,Nigeria,232.68,537025,475059,2174,country,NGA
+Niue,TRUE,Niue,0,NA,NA,NA,country,NA
+North Macedonia,TRUE,North Macedonia,1.82,11386,13711,6549,country,MKD
+North Macedonia,TRUE,North Macedonia,1.82,11386,13711,6549,country,MKD
+North Macedonia,TRUE,North Macedonia,1.82,11386,13711,6549,country,MKD
+North Macedonia,TRUE,North Macedonia,1.82,11386,13711,6549,country,MKD
+North Macedonia,TRUE,North Macedonia,1.82,11386,13711,6549,country,MKD
+North Macedonia,TRUE,North Macedonia,1.82,11386,13711,6549,country,MKD
+North Macedonia,TRUE,North Macedonia,1.82,11386,13711,6549,country,MKD
+North Macedonia,TRUE,North Macedonia,1.82,11386,13711,6549,country,MKD
+North Macedonia,TRUE,North Macedonia,1.82,11386,13711,6549,country,MKD
+North Macedonia,TRUE,North Macedonia,1.82,11386,13711,6549,country,MKD
+North Macedonia,TRUE,North Macedonia,1.82,11386,13711,6549,country,MKD
+North Macedonia,TRUE,North Macedonia,1.82,11386,13711,6549,country,MKD
+Northern Mariana Islands,TRUE,Northern Mariana Islands,0.04,NA,NA,NA,country,NA
+Norway,TRUE,Norway,5.58,434585,579422,106623,country,NOR
+Norway,TRUE,Norway,5.58,434585,579422,106623,country,NOR
+Norway,TRUE,Norway,5.58,434585,579422,106623,country,NOR
+Norway,TRUE,Norway,5.58,434585,579422,106623,country,NOR
+Norway,TRUE,Norway,5.58,434585,579422,106623,country,NOR
+Norway,TRUE,Norway,5.58,434585,579422,106623,country,NOR
+Norway,TRUE,Norway,5.58,434585,579422,106623,country,NOR
+Norway,TRUE,Norway,5.58,434585,579422,106623,country,NOR
+Norway,TRUE,Norway,5.58,434585,579422,106623,country,NOR
+Norway,TRUE,Norway,5.58,434585,579422,106623,country,NOR
+Norway,TRUE,Norway,5.58,434585,579422,106623,country,NOR
+Norway,TRUE,Norway,5.58,434585,579422,106623,country,NOR
+Oman,TRUE,Oman,5.28,86295,114667,25057,country,OMN
+Oman,TRUE,Oman,5.28,86295,114667,25057,country,OMN
+Oman,TRUE,Oman,5.28,86295,114667,25057,country,OMN
+Oman,TRUE,Oman,5.28,86295,114667,25057,country,OMN
+Oman,TRUE,Oman,5.28,86295,114667,25057,country,OMN
+Oman,TRUE,Oman,5.28,86295,114667,25057,country,OMN
+Oman,TRUE,Oman,5.28,86295,114667,25057,country,OMN
+Oman,TRUE,Oman,5.28,86295,114667,25057,country,OMN
+Oman,TRUE,Oman,5.28,86295,114667,25057,country,OMN
+Oman,TRUE,Oman,5.28,86295,114667,25057,country,OMN
+Oman,TRUE,Oman,5.28,86295,114667,25057,country,OMN
+Oman,TRUE,Oman,5.28,86295,114667,25057,country,OMN
+Other non-specified areas,FALSE,Other non-specified areas,23.21,NA,NA,NA,region,NA
+Pakistan,TRUE,Pakistan,251.27,402312,326797,1386,country,PAK
+Pakistan,TRUE,Pakistan,251.27,402312,326797,1386,country,PAK
+Pakistan,TRUE,Pakistan,251.27,402312,326797,1386,country,PAK
+Pakistan,TRUE,Pakistan,251.27,402312,326797,1386,country,PAK
+Pakistan,TRUE,Pakistan,251.27,402312,326797,1386,country,PAK
+Pakistan,TRUE,Pakistan,251.27,402312,326797,1386,country,PAK
+Pakistan,TRUE,Pakistan,251.27,402312,326797,1386,country,PAK
+Pakistan,TRUE,Pakistan,251.27,402312,326797,1386,country,PAK
+Pakistan,TRUE,Pakistan,251.27,402312,326797,1386,country,PAK
+Palau,TRUE,Palau,0.02,210,226,12498,country,PLW
+Palau,TRUE,Palau,0.02,210,226,12498,country,PLW
+Palau,TRUE,Palau,0.02,210,226,12498,country,PLW
+Palau,TRUE,Palau,0.02,210,226,12498,country,PLW
+Palau,TRUE,Palau,0.02,210,226,12498,country,PLW
+Palau,TRUE,Palau,0.02,210,226,12498,country,PLW
+Panama,TRUE,Panama,4.52,70310,76523,17358,country,PAN
+Panama,TRUE,Panama,4.52,70310,76523,17358,country,PAN
+Panama,TRUE,Panama,4.52,70310,76523,17358,country,PAN
+Panama,TRUE,Panama,4.52,70310,76523,17358,country,PAN
+Panama,TRUE,Panama,4.52,70310,76523,17358,country,PAN
+Panama,TRUE,Panama,4.52,70310,76523,17358,country,PAN
+Panama,TRUE,Panama,4.52,70310,76523,17358,country,PAN
+Panama,TRUE,Panama,4.52,70310,76523,17358,country,PAN
+Panama,TRUE,Panama,4.52,70310,76523,17358,country,PAN
+Panama,TRUE,Panama,4.52,70310,76523,17358,country,PAN
+Panama,TRUE,Panama,4.52,70310,76523,17358,country,PAN
+Panama,TRUE,Panama,4.52,70310,76523,17358,country,PAN
+Papua New Guinea,TRUE,Papua New Guinea,10.58,24977,31610,3117,country,PNG
+Papua New Guinea,TRUE,Papua New Guinea,10.58,24977,31610,3117,country,PNG
+Papua New Guinea,TRUE,Papua New Guinea,10.58,24977,31610,3117,country,PNG
+Papua New Guinea,TRUE,Papua New Guinea,10.58,24977,31610,3117,country,PNG
+Papua New Guinea,TRUE,Papua New Guinea,10.58,24977,31610,3117,country,PNG
+Papua New Guinea,TRUE,Papua New Guinea,10.58,24977,31610,3117,country,PNG
+Papua New Guinea,TRUE,Papua New Guinea,10.58,24977,31610,3117,country,PNG
+Papua New Guinea,TRUE,Papua New Guinea,10.58,24977,31610,3117,country,PNG
+Papua New Guinea,TRUE,Papua New Guinea,10.58,24977,31610,3117,country,PNG
+Paraguay,TRUE,Paraguay,6.93,41996,41722,6153,country,PRY
+Paraguay,TRUE,Paraguay,6.93,41996,41722,6153,country,PRY
+Paraguay,TRUE,Paraguay,6.93,41996,41722,6153,country,PRY
+Paraguay,TRUE,Paraguay,6.93,41996,41722,6153,country,PRY
+Paraguay,TRUE,Paraguay,6.93,41996,41722,6153,country,PRY
+Paraguay,TRUE,Paraguay,6.93,41996,41722,6153,country,PRY
+Paraguay,TRUE,Paraguay,6.93,41996,41722,6153,country,PRY
+Paraguay,TRUE,Paraguay,6.93,41996,41722,6153,country,PRY
+Paraguay,TRUE,Paraguay,6.93,41996,41722,6153,country,PRY
+Paraguay,TRUE,Paraguay,6.93,41996,41722,6153,country,PRY
+Paraguay,TRUE,Paraguay,6.93,41996,41722,6153,country,PRY
+Paraguay,TRUE,Paraguay,6.93,41996,41722,6153,country,PRY
+Peru,TRUE,Peru,34.22,223194,242632,7126,country,PER
+Peru,TRUE,Peru,34.22,223194,242632,7126,country,PER
+Peru,TRUE,Peru,34.22,223194,242632,7126,country,PER
+Peru,TRUE,Peru,34.22,223194,242632,7126,country,PER
+Peru,TRUE,Peru,34.22,223194,242632,7126,country,PER
+Peru,TRUE,Peru,34.22,223194,242632,7126,country,PER
+Peru,TRUE,Peru,34.22,223194,242632,7126,country,PER
+Peru,TRUE,Peru,34.22,223194,242632,7126,country,PER
+Peru,TRUE,Peru,34.22,223194,242632,7126,country,PER
+Peru,TRUE,Peru,34.22,223194,242632,7126,country,PER
+Peru,TRUE,Peru,34.22,223194,242632,7126,country,PER
+Peru,TRUE,Peru,34.22,223194,242632,7126,country,PER
+Philippines,TRUE,Philippines,115.84,407690,404284,3499,country,PHL
+Philippines,TRUE,Philippines,115.84,407690,404284,3499,country,PHL
+Philippines,TRUE,Philippines,115.84,407690,404284,3499,country,PHL
+Philippines,TRUE,Philippines,115.84,407690,404284,3499,country,PHL
+Philippines,TRUE,Philippines,115.84,407690,404284,3499,country,PHL
+Philippines,TRUE,Philippines,115.84,407690,404284,3499,country,PHL
+Philippines,TRUE,Philippines,115.84,407690,404284,3499,country,PHL
+Philippines,TRUE,Philippines,115.84,407690,404284,3499,country,PHL
+Philippines,TRUE,Philippines,115.84,407690,404284,3499,country,PHL
+Poland,TRUE,Poland,38.54,630290,688125,17265,country,POL
+Poland,TRUE,Poland,38.54,630290,688125,17265,country,POL
+Poland,TRUE,Poland,38.54,630290,688125,17265,country,POL
+Poland,TRUE,Poland,38.54,630290,688125,17265,country,POL
+Poland,TRUE,Poland,38.54,630290,688125,17265,country,POL
+Poland,TRUE,Poland,38.54,630290,688125,17265,country,POL
+Poland,TRUE,Poland,38.54,630290,688125,17265,country,POL
+Poland,TRUE,Poland,38.54,630290,688125,17265,country,POL
+Poland,TRUE,Poland,38.54,630290,688125,17265,country,POL
+Poland,TRUE,Poland,38.54,630290,688125,17265,country,POL
+Poland,TRUE,Poland,38.54,630290,688125,17265,country,POL
+Poland,TRUE,Poland,38.54,630290,688125,17265,country,POL
+Portugal,TRUE,Portugal,10.43,230232,254850,24813,country,PRT
+Portugal,TRUE,Portugal,10.43,230232,254850,24813,country,PRT
+Portugal,TRUE,Portugal,10.43,230232,254850,24813,country,PRT
+Portugal,TRUE,Portugal,10.43,230232,254850,24813,country,PRT
+Portugal,TRUE,Portugal,10.43,230232,254850,24813,country,PRT
+Portugal,TRUE,Portugal,10.43,230232,254850,24813,country,PRT
+Portugal,TRUE,Portugal,10.43,230232,254850,24813,country,PRT
+Portugal,TRUE,Portugal,10.43,230232,254850,24813,country,PRT
+Portugal,TRUE,Portugal,10.43,230232,254850,24813,country,PRT
+Portugal,TRUE,Portugal,10.43,230232,254850,24813,country,PRT
+Portugal,TRUE,Portugal,10.43,230232,254850,24813,country,PRT
+Portugal,TRUE,Portugal,10.43,230232,254850,24813,country,PRT
+Puerto Rico,TRUE,Puerto Rico,3.24,95855,113435,34877,country,NA
+Qatar,TRUE,Qatar,3.05,171752,237101,87974,country,QAT
+Qatar,TRUE,Qatar,3.05,171752,237101,87974,country,QAT
+Qatar,TRUE,Qatar,3.05,171752,237101,87974,country,QAT
+Qatar,TRUE,Qatar,3.05,171752,237101,87974,country,QAT
+Qatar,TRUE,Qatar,3.05,171752,237101,87974,country,QAT
+Qatar,TRUE,Qatar,3.05,171752,237101,87974,country,QAT
+Qatar,TRUE,Qatar,3.05,171752,237101,87974,country,QAT
+Qatar,TRUE,Qatar,3.05,171752,237101,87974,country,QAT
+Qatar,TRUE,Qatar,3.05,171752,237101,87974,country,QAT
+Qatar,TRUE,Qatar,3.05,171752,237101,87974,country,QAT
+Qatar,TRUE,Qatar,3.05,171752,237101,87974,country,QAT
+Qatar,TRUE,Qatar,3.05,171752,237101,87974,country,QAT
+Republic of Korea,TRUE,South Korea,51.72,1740553,1673917,32305,country,NA
+Republic of Moldova,TRUE,Moldova,3.04,9004,14510,4433,country,NA
+Réunion,TRUE,Reunion,0.88,NA,NA,NA,country,NA
+Romania,TRUE,Romania,19.02,232157,300691,15295,country,ROU
+Romania,TRUE,Romania,19.02,232157,300691,15295,country,ROU
+Romania,TRUE,Romania,19.02,232157,300691,15295,country,ROU
+Romania,TRUE,Romania,19.02,232157,300691,15295,country,ROU
+Romania,TRUE,Romania,19.02,232157,300691,15295,country,ROU
+Romania,TRUE,Romania,19.02,232157,300691,15295,country,ROU
+Romania,TRUE,Romania,19.02,232157,300691,15295,country,ROU
+Romania,TRUE,Romania,19.02,232157,300691,15295,country,ROU
+Romania,TRUE,Romania,19.02,232157,300691,15295,country,ROU
+Romania,TRUE,Romania,19.02,232157,300691,15295,country,ROU
+Romania,TRUE,Romania,19.02,232157,300691,15295,country,ROU
+Romania,TRUE,Romania,19.02,232157,300691,15295,country,ROU
+Russian Federation,TRUE,Russia,144.82,1471546,2240422,15482,country,RUS
+Russian Federation,TRUE,Russia,144.82,1471546,2240422,15482,country,RUS
+Russian Federation,TRUE,Russia,144.82,1471546,2240422,15482,country,RUS
+Russian Federation,TRUE,Russia,144.82,1471546,2240422,15482,country,RUS
+Russian Federation,TRUE,Russia,144.82,1471546,2240422,15482,country,RUS
+Russian Federation,TRUE,Russia,144.82,1471546,2240422,15482,country,RUS
+Russian Federation,TRUE,Russia,144.82,1471546,2240422,15482,country,RUS
+Russian Federation,TRUE,Russia,144.82,1471546,2240422,15482,country,RUS
+Russian Federation,TRUE,Russia,144.82,1471546,2240422,15482,country,RUS
+Russian Federation,TRUE,Russia,144.82,1471546,2240422,15482,country,RUS
+Russian Federation,TRUE,Russia,144.82,1471546,2240422,15482,country,RUS
+Russian Federation,TRUE,Russia,144.82,1471546,2240422,15482,country,RUS
+Rwanda,TRUE,Rwanda,14.26,12934,13313,966,country,RWA
+Rwanda,TRUE,Rwanda,14.26,12934,13313,966,country,RWA
+Rwanda,TRUE,Rwanda,14.26,12934,13313,966,country,RWA
+Rwanda,TRUE,Rwanda,14.26,12934,13313,966,country,RWA
+Rwanda,TRUE,Rwanda,14.26,12934,13313,966,country,RWA
+Rwanda,TRUE,Rwanda,14.26,12934,13313,966,country,RWA
+Rwanda,TRUE,Rwanda,14.26,12934,13313,966,country,RWA
+Rwanda,TRUE,Rwanda,14.26,12934,13313,966,country,RWA
+Rwanda,TRUE,Rwanda,14.26,12934,13313,966,country,RWA
+Saint Barthélemy,TRUE,St. Barths,0.01,NA,NA,NA,country,NA
+Saint Helena,TRUE,St. Helena,0.01,NA,NA,NA,country,NA
+Saint Kitts and Nevis,TRUE,St. Kitts and Nevis,0.05,963,979,20547,country,NA
+Saint Lucia,TRUE,St. Lucia,0.18,1899,2165,12038,country,NA
+Saint Martin (French part),TRUE,Saint-Martin,0.03,NA,NA,NA,country,NA
+Saint Pierre and Miquelon,TRUE,St. Pierre and Miquelon,0.01,NA,NA,NA,country,NA
+Saint Vincent & Grenadines,TRUE,St. Vincent and the Grenadines,0.1,884,947,9107,country,NA
+Samoa,TRUE,Samoa,0.22,798,857,3855,country,WSM
+Samoa,TRUE,Samoa,0.22,798,857,3855,country,WSM
+Samoa,TRUE,Samoa,0.22,798,857,3855,country,WSM
+Samoa,TRUE,Samoa,0.22,798,857,3855,country,WSM
+Samoa,TRUE,Samoa,0.22,798,857,3855,country,WSM
+Samoa,TRUE,Samoa,0.22,798,857,3855,country,WSM
+San Marino,TRUE,San Marino,0.03,1601,1781,52903,country,NA
+Sao Tome and Principe,TRUE,Sao Tome and Principe,0.24,381,547,2405,country,NA
+Saudi Arabia,TRUE,Saudi Arabia,33.96,767097,1108149,30436,country,SAU
+Saudi Arabia,TRUE,Saudi Arabia,33.96,767097,1108149,30436,country,SAU
+Saudi Arabia,TRUE,Saudi Arabia,33.96,767097,1108149,30436,country,SAU
+Saudi Arabia,TRUE,Saudi Arabia,33.96,767097,1108149,30436,country,SAU
+Saudi Arabia,TRUE,Saudi Arabia,33.96,767097,1108149,30436,country,SAU
+Saudi Arabia,TRUE,Saudi Arabia,33.96,767097,1108149,30436,country,SAU
+Saudi Arabia,TRUE,Saudi Arabia,33.96,767097,1108149,30436,country,SAU
+Saudi Arabia,TRUE,Saudi Arabia,33.96,767097,1108149,30436,country,SAU
+Saudi Arabia,TRUE,Saudi Arabia,33.96,767097,1108149,30436,country,SAU
+Saudi Arabia,TRUE,Saudi Arabia,33.96,767097,1108149,30436,country,SAU
+Saudi Arabia,TRUE,Saudi Arabia,33.96,767097,1108149,30436,country,SAU
+Saudi Arabia,TRUE,Saudi Arabia,33.96,767097,1108149,30436,country,SAU
+Senegal,TRUE,Senegal,18.5,25302,27776,1604,country,SEN
+Senegal,TRUE,Senegal,18.5,25302,27776,1604,country,SEN
+Senegal,TRUE,Senegal,18.5,25302,27776,1604,country,SEN
+Senegal,TRUE,Senegal,18.5,25302,27776,1604,country,SEN
+Senegal,TRUE,Senegal,18.5,25302,27776,1604,country,SEN
+Senegal,TRUE,Senegal,18.5,25302,27776,1604,country,SEN
+Senegal,TRUE,Senegal,18.5,25302,27776,1604,country,SEN
+Senegal,TRUE,Senegal,18.5,25302,27776,1604,country,SEN
+Senegal,TRUE,Senegal,18.5,25302,27776,1604,country,SEN
+Senegal,TRUE,Senegal,18.5,25302,27776,1604,country,SEN
+Senegal,TRUE,Senegal,18.5,25302,27776,1604,country,SEN
+Senegal,TRUE,Senegal,18.5,25302,27776,1604,country,SEN
+Serbia,TRUE,Serbia,6.74,49711,63563,8802,country,SRB
+Serbia,TRUE,Serbia,6.74,49711,63563,8802,country,SRB
+Serbia,TRUE,Serbia,6.74,49711,63563,8802,country,SRB
+Serbia,TRUE,Serbia,6.74,49711,63563,8802,country,SRB
+Serbia,TRUE,Serbia,6.74,49711,63563,8802,country,SRB
+Serbia,TRUE,Serbia,6.74,49711,63563,8802,country,SRB
+Serbia,TRUE,Serbia,6.74,49711,63563,8802,country,SRB
+Serbia,TRUE,Serbia,6.74,49711,63563,8802,country,SRB
+Serbia,TRUE,Serbia,6.74,49711,63563,8802,country,SRB
+Serbia,TRUE,Serbia,6.74,49711,63563,8802,country,SRB
+Serbia,TRUE,Serbia,6.74,49711,63563,8802,country,SRB
+Serbia,TRUE,Serbia,6.74,49711,63563,8802,country,SRB
+Seychelles,TRUE,Seychelles,0.13,1869,1995,18623,country,SYC
+Seychelles,TRUE,Seychelles,0.13,1869,1995,18623,country,SYC
+Seychelles,TRUE,Seychelles,0.13,1869,1995,18623,country,SYC
+Seychelles,TRUE,Seychelles,0.13,1869,1995,18623,country,SYC
+Seychelles,TRUE,Seychelles,0.13,1869,1995,18623,country,SYC
+Seychelles,TRUE,Seychelles,0.13,1869,1995,18623,country,SYC
+Sierra Leone,TRUE,Sierra Leone,8.64,5406,3481,405,country,SLE
+Sierra Leone,TRUE,Sierra Leone,8.64,5406,3481,405,country,SLE
+Sierra Leone,TRUE,Sierra Leone,8.64,5406,3481,405,country,SLE
+Sierra Leone,TRUE,Sierra Leone,8.64,5406,3481,405,country,SLE
+Sierra Leone,TRUE,Sierra Leone,8.64,5406,3481,405,country,SLE
+Sierra Leone,TRUE,Sierra Leone,8.64,5406,3481,405,country,SLE
+Sierra Leone,TRUE,Sierra Leone,8.64,5406,3481,405,country,SLE
+Sierra Leone,TRUE,Sierra Leone,8.64,5406,3481,405,country,SLE
+Sierra Leone,TRUE,Sierra Leone,8.64,5406,3481,405,country,SLE
+Singapore,TRUE,Singapore,5.83,379709,466789,78115,country,SGP
+Singapore,TRUE,Singapore,5.83,379709,466789,78115,country,SGP
+Singapore,TRUE,Singapore,5.83,379709,466789,78115,country,SGP
+Singapore,TRUE,Singapore,5.83,379709,466789,78115,country,SGP
+Singapore,TRUE,Singapore,5.83,379709,466789,78115,country,SGP
+Singapore,TRUE,Singapore,5.83,379709,466789,78115,country,SGP
+Singapore,TRUE,Singapore,5.83,379709,466789,78115,country,SGP
+Singapore,TRUE,Singapore,5.83,379709,466789,78115,country,SGP
+Singapore,TRUE,Singapore,5.83,379709,466789,78115,country,SGP
+Singapore,TRUE,Singapore,5.83,379709,466789,78115,country,SGP
+Singapore,TRUE,Singapore,5.83,379709,466789,78115,country,SGP
+Singapore,TRUE,Singapore,5.83,379709,466789,78115,country,SGP
+Sint Maarten (Dutch part),TRUE,Sint Maarten,0.04,1204,1573,35607,country,NA
+Slovakia,TRUE,Slovakia,5.51,102499,115305,20432,country,NA
+Slovenia,TRUE,Slovenia,2.12,53517,59982,28295,country,SVN
+Slovenia,TRUE,Slovenia,2.12,53517,59982,28295,country,SVN
+Slovenia,TRUE,Slovenia,2.12,53517,59982,28295,country,SVN
+Slovenia,TRUE,Slovenia,2.12,53517,59982,28295,country,SVN
+Slovenia,TRUE,Slovenia,2.12,53517,59982,28295,country,SVN
+Slovenia,TRUE,Slovenia,2.12,53517,59982,28295,country,SVN
+Slovenia,TRUE,Slovenia,2.12,53517,59982,28295,country,SVN
+Slovenia,TRUE,Slovenia,2.12,53517,59982,28295,country,SVN
+Slovenia,TRUE,Slovenia,2.12,53517,59982,28295,country,SVN
+Slovenia,TRUE,Slovenia,2.12,53517,59982,28295,country,SVN
+Slovenia,TRUE,Slovenia,2.12,53517,59982,28295,country,SVN
+Slovenia,TRUE,Slovenia,2.12,53517,59982,28295,country,SVN
+Solomon Islands,TRUE,Solomon Islands,0.82,1371,1597,2205,country,SLB
+Solomon Islands,TRUE,Solomon Islands,0.82,1371,1597,2205,country,SLB
+Solomon Islands,TRUE,Solomon Islands,0.82,1371,1597,2205,country,SLB
+Solomon Islands,TRUE,Solomon Islands,0.82,1371,1597,2205,country,SLB
+Solomon Islands,TRUE,Solomon Islands,0.82,1371,1597,2205,country,SLB
+Solomon Islands,TRUE,Solomon Islands,0.82,1371,1597,2205,country,SLB
+Solomon Islands,TRUE,Solomon Islands,0.82,1371,1597,2205,country,SLB
+Solomon Islands,TRUE,Solomon Islands,0.82,1371,1597,2205,country,SLB
+Solomon Islands,TRUE,Solomon Islands,0.82,1371,1597,2205,country,SLB
+Somalia,TRUE,Somalia,19.01,9319,10420,592,country,NA
+South Africa,TRUE,South Africa,64.01,360474,405271,6766,country,ZAF
+South Africa,TRUE,South Africa,64.01,360474,405271,6766,country,ZAF
+South Africa,TRUE,South Africa,64.01,360474,405271,6766,country,ZAF
+South Africa,TRUE,South Africa,64.01,360474,405271,6766,country,ZAF
+South Africa,TRUE,South Africa,64.01,360474,405271,6766,country,ZAF
+South Africa,TRUE,South Africa,64.01,360474,405271,6766,country,ZAF
+South Africa,TRUE,South Africa,64.01,360474,405271,6766,country,ZAF
+South Africa,TRUE,South Africa,64.01,360474,405271,6766,country,ZAF
+South Africa,TRUE,South Africa,64.01,360474,405271,6766,country,ZAF
+South Africa,TRUE,South Africa,64.01,360474,405271,6766,country,ZAF
+South Africa,TRUE,South Africa,64.01,360474,405271,6766,country,ZAF
+South Africa,TRUE,South Africa,64.01,360474,405271,6766,country,ZAF
+South Sudan,TRUE,South Sudan,11.94,6150,4616,423,country,SSD
+South Sudan,TRUE,South Sudan,11.94,6150,4616,423,country,SSD
+South Sudan,TRUE,South Sudan,11.94,6150,4616,423,country,SSD
+Spain,TRUE,Spain,47.91,1323059,1415874,29771,country,ESP
+Spain,TRUE,Spain,47.91,1323059,1415874,29771,country,ESP
+Spain,TRUE,Spain,47.91,1323059,1415874,29771,country,ESP
+Spain,TRUE,Spain,47.91,1323059,1415874,29771,country,ESP
+Spain,TRUE,Spain,47.91,1323059,1415874,29771,country,ESP
+Spain,TRUE,Spain,47.91,1323059,1415874,29771,country,ESP
+Spain,TRUE,Spain,47.91,1323059,1415874,29771,country,ESP
+Spain,TRUE,Spain,47.91,1323059,1415874,29771,country,ESP
+Spain,TRUE,Spain,47.91,1323059,1415874,29771,country,ESP
+Spain,TRUE,Spain,47.91,1323059,1415874,29771,country,ESP
+Spain,TRUE,Spain,47.91,1323059,1415874,29771,country,ESP
+Spain,TRUE,Spain,47.91,1323059,1415874,29771,country,ESP
+Sri Lanka,TRUE,Sri Lanka,23.1,88460,76187,3490,country,LKA
+Sri Lanka,TRUE,Sri Lanka,23.1,88460,76187,3490,country,LKA
+Sri Lanka,TRUE,Sri Lanka,23.1,88460,76187,3490,country,LKA
+State of Palestine,TRUE,Palestine,5.5,15613,19112,3640,country,NA
+Sudan,TRUE,Sudan,50.45,87367,36729,784,country,SDN
+Sudan,TRUE,Sudan,50.45,87367,36729,784,country,SDN
+Sudan,TRUE,Sudan,50.45,87367,36729,784,country,SDN
+Sudan,TRUE,Sudan,50.45,87367,36729,784,country,SDN
+Sudan,TRUE,Sudan,50.45,87367,36729,784,country,SDN
+Sudan,TRUE,Sudan,50.45,87367,36729,784,country,SDN
+Sudan,TRUE,Sudan,50.45,87367,36729,784,country,SDN
+Sudan,TRUE,Sudan,50.45,87367,36729,784,country,SDN
+Sudan,TRUE,Sudan,50.45,87367,36729,784,country,SDN
+Suriname,TRUE,Suriname,0.63,4414,3621,5859,country,NA
+Sweden,TRUE,Sweden,10.61,587122,591189,56040,country,SWE
+Sweden,TRUE,Sweden,10.61,587122,591189,56040,country,SWE
+Sweden,TRUE,Sweden,10.61,587122,591189,56040,country,SWE
+Sweden,TRUE,Sweden,10.61,587122,591189,56040,country,SWE
+Sweden,TRUE,Sweden,10.61,587122,591189,56040,country,SWE
+Sweden,TRUE,Sweden,10.61,587122,591189,56040,country,SWE
+Sweden,TRUE,Sweden,10.61,587122,591189,56040,country,SWE
+Sweden,TRUE,Sweden,10.61,587122,591189,56040,country,SWE
+Sweden,TRUE,Sweden,10.61,587122,591189,56040,country,SWE
+Sweden,TRUE,Sweden,10.61,587122,591189,56040,country,SWE
+Sweden,TRUE,Sweden,10.61,587122,591189,56040,country,SWE
+Sweden,TRUE,Sweden,10.61,587122,591189,56040,country,SWE
+Switzerland,TRUE,Switzerland,8.92,790319,818427,93636,country,CHE
+Switzerland,TRUE,Switzerland,8.92,790319,818427,93636,country,CHE
+Switzerland,TRUE,Switzerland,8.92,790319,818427,93636,country,CHE
+Switzerland,TRUE,Switzerland,8.92,790319,818427,93636,country,CHE
+Switzerland,TRUE,Switzerland,8.92,790319,818427,93636,country,CHE
+Switzerland,TRUE,Switzerland,8.92,790319,818427,93636,country,CHE
+Switzerland,TRUE,Switzerland,8.92,790319,818427,93636,country,CHE
+Switzerland,TRUE,Switzerland,8.92,790319,818427,93636,country,CHE
+Switzerland,TRUE,Switzerland,8.92,790319,818427,93636,country,CHE
+Switzerland,TRUE,Switzerland,8.92,790319,818427,93636,country,CHE
+Switzerland,TRUE,Switzerland,8.92,790319,818427,93636,country,CHE
+Switzerland,TRUE,Switzerland,8.92,790319,818427,93636,country,CHE
+Syrian Arab Republic,TRUE,Syria,24.67,19285,18596,840,country,NA
+Tajikistan,TRUE,Tajikistan,10.59,13506,10492,1054,country,TJK
+Tajikistan,TRUE,Tajikistan,10.59,13506,10492,1054,country,TJK
+Tajikistan,TRUE,Tajikistan,10.59,13506,10492,1054,country,TJK
+Tajikistan,TRUE,Tajikistan,10.59,13506,10492,1054,country,TJK
+Tajikistan,TRUE,Tajikistan,10.59,13506,10492,1054,country,TJK
+Tajikistan,TRUE,Tajikistan,10.59,13506,10492,1054,country,TJK
+Tajikistan,TRUE,Tajikistan,10.59,13506,10492,1054,country,TJK
+Thailand,TRUE,Thailand,71.67,450126,495341,6909,country,THA
+Thailand,TRUE,Thailand,71.67,450126,495341,6909,country,THA
+Thailand,TRUE,Thailand,71.67,450126,495341,6909,country,THA
+Thailand,TRUE,Thailand,71.67,450126,495341,6909,country,THA
+Thailand,TRUE,Thailand,71.67,450126,495341,6909,country,THA
+Thailand,TRUE,Thailand,71.67,450126,495341,6909,country,THA
+Thailand,TRUE,Thailand,71.67,450126,495341,6909,country,THA
+Thailand,TRUE,Thailand,71.67,450126,495341,6909,country,THA
+Thailand,TRUE,Thailand,71.67,450126,495341,6909,country,THA
+Thailand,TRUE,Thailand,71.67,450126,495341,6909,country,THA
+Thailand,TRUE,Thailand,71.67,450126,495341,6909,country,THA
+Thailand,TRUE,Thailand,71.67,450126,495341,6909,country,THA
+Timor-Leste,TRUE,Timor-Leste,1.4,2161,3205,2389,country,TLS
+Timor-Leste,TRUE,Timor-Leste,1.4,2161,3205,2389,country,TLS
+Timor-Leste,TRUE,Timor-Leste,1.4,2161,3205,2389,country,TLS
+Timor-Leste,TRUE,Timor-Leste,1.4,2161,3205,2389,country,TLS
+Timor-Leste,TRUE,Timor-Leste,1.4,2161,3205,2389,country,TLS
+Timor-Leste,TRUE,Timor-Leste,1.4,2161,3205,2389,country,TLS
+Timor-Leste,TRUE,Timor-Leste,1.4,2161,3205,2389,country,TLS
+Timor-Leste,TRUE,Timor-Leste,1.4,2161,3205,2389,country,TLS
+Timor-Leste,TRUE,Timor-Leste,1.4,2161,3205,2389,country,TLS
+Timor-Leste,TRUE,Timor-Leste,1.4,2161,3205,2389,country,TLS
+Timor-Leste,TRUE,Timor-Leste,1.4,2161,3205,2389,country,TLS
+Timor-Leste,TRUE,Timor-Leste,1.4,2161,3205,2389,country,TLS
+Togo,TRUE,Togo,9.52,7886,8087,914,country,TGO
+Togo,TRUE,Togo,9.52,7886,8087,914,country,TGO
+Togo,TRUE,Togo,9.52,7886,8087,914,country,TGO
+Togo,TRUE,Togo,9.52,7886,8087,914,country,TGO
+Togo,TRUE,Togo,9.52,7886,8087,914,country,TGO
+Togo,TRUE,Togo,9.52,7886,8087,914,country,TGO
+Togo,TRUE,Togo,9.52,7886,8087,914,country,TGO
+Togo,TRUE,Togo,9.52,7886,8087,914,country,TGO
+Togo,TRUE,Togo,9.52,7886,8087,914,country,TGO
+Togo,TRUE,Togo,9.52,7886,8087,914,country,TGO
+Togo,TRUE,Togo,9.52,7886,8087,914,country,TGO
+Togo,TRUE,Togo,9.52,7886,8087,914,country,TGO
+Tokelau,TRUE,Tokelau,0,NA,NA,NA,country,NA
+Tonga,TRUE,Tonga,0.1,430,488,4571,country,TON
+Tonga,TRUE,Tonga,0.1,430,488,4571,country,TON
+Tonga,TRUE,Tonga,0.1,430,488,4571,country,TON
+Tonga,TRUE,Tonga,0.1,430,488,4571,country,TON
+Tonga,TRUE,Tonga,0.1,430,488,4571,country,TON
+Tonga,TRUE,Tonga,0.1,430,488,4571,country,TON
+Tonga,TRUE,Tonga,0.1,430,488,4571,country,TON
+Tonga,TRUE,Tonga,0.1,430,488,4571,country,TON
+Tonga,TRUE,Tonga,0.1,430,488,4571,country,TON
+Trinidad and Tobago,TRUE,Trinidad and Tobago,1.51,21673,30053,19629,country,TTO
+Trinidad and Tobago,TRUE,Trinidad and Tobago,1.51,21673,30053,19629,country,TTO
+Trinidad and Tobago,TRUE,Trinidad and Tobago,1.51,21673,30053,19629,country,TTO
+Trinidad and Tobago,TRUE,Trinidad and Tobago,1.51,21673,30053,19629,country,TTO
+Trinidad and Tobago,TRUE,Trinidad and Tobago,1.51,21673,30053,19629,country,TTO
+Trinidad and Tobago,TRUE,Trinidad and Tobago,1.51,21673,30053,19629,country,TTO
+Trinidad and Tobago,TRUE,Trinidad and Tobago,1.51,21673,30053,19629,country,TTO
+Trinidad and Tobago,TRUE,Trinidad and Tobago,1.51,21673,30053,19629,country,TTO
+Trinidad and Tobago,TRUE,Trinidad and Tobago,1.51,21673,30053,19629,country,TTO
+Trinidad and Tobago,TRUE,Trinidad and Tobago,1.51,21673,30053,19629,country,TTO
+Trinidad and Tobago,TRUE,Trinidad and Tobago,1.51,21673,30053,19629,country,TTO
+Trinidad and Tobago,TRUE,Trinidad and Tobago,1.51,21673,30053,19629,country,TTO
+Tunisia,TRUE,Tunisia,12.28,50546,46181,3738,country,TUN
+Tunisia,TRUE,Tunisia,12.28,50546,46181,3738,country,TUN
+Tunisia,TRUE,Tunisia,12.28,50546,46181,3738,country,TUN
+Tunisia,TRUE,Tunisia,12.28,50546,46181,3738,country,TUN
+Tunisia,TRUE,Tunisia,12.28,50546,46181,3738,country,TUN
+Tunisia,TRUE,Tunisia,12.28,50546,46181,3738,country,TUN
+Tunisia,TRUE,Tunisia,12.28,50546,46181,3738,country,TUN
+Tunisia,TRUE,Tunisia,12.28,50546,46181,3738,country,TUN
+Tunisia,TRUE,Tunisia,12.28,50546,46181,3738,country,TUN
+Tunisia,TRUE,Tunisia,12.28,50546,46181,3738,country,TUN
+Tunisia,TRUE,Tunisia,12.28,50546,46181,3738,country,TUN
+Tunisia,TRUE,Tunisia,12.28,50546,46181,3738,country,TUN
+Türkiye,TRUE,Turkey,87.47,1194402,907118,10629,country,NA
+Turkmenistan,TRUE,Turkmenistan,7.49,37596,67009,10420,country,NA
+Turks and Caicos Islands,TRUE,Turks and Caicos Islands,0.05,870,1139,24918,country,NA
+Tuvalu,TRUE,Tuvalu,0.01,45,59,5219,country,TUV
+Tuvalu,TRUE,Tuvalu,0.01,45,59,5219,country,TUV
+Tuvalu,TRUE,Tuvalu,0.01,45,59,5219,country,TUV
+Tuvalu,TRUE,Tuvalu,0.01,45,59,5219,country,TUV
+Tuvalu,TRUE,Tuvalu,0.01,45,59,5219,country,TUV
+Tuvalu,TRUE,Tuvalu,0.01,45,59,5219,country,TUV
+Tuvalu,TRUE,Tuvalu,0.01,45,59,5219,country,TUV
+Tuvalu,TRUE,Tuvalu,0.01,45,59,5219,country,TUV
+Tuvalu,TRUE,Tuvalu,0.01,45,59,5219,country,TUV
+Uganda,TRUE,Uganda,50.02,40038,48243,1021,country,UGA
+Uganda,TRUE,Uganda,50.02,40038,48243,1021,country,UGA
+Uganda,TRUE,Uganda,50.02,40038,48243,1021,country,UGA
+Uganda,TRUE,Uganda,50.02,40038,48243,1021,country,UGA
+Uganda,TRUE,Uganda,50.02,40038,48243,1021,country,UGA
+Uganda,TRUE,Uganda,50.02,40038,48243,1021,country,UGA
+Ukraine,TRUE,Ukraine,37.86,71984,160503,4043,country,UKR
+Ukraine,TRUE,Ukraine,37.86,71984,160503,4043,country,UKR
+Ukraine,TRUE,Ukraine,37.86,71984,160503,4043,country,UKR
+Ukraine,TRUE,Ukraine,37.86,71984,160503,4043,country,UKR
+Ukraine,TRUE,Ukraine,37.86,71984,160503,4043,country,UKR
+Ukraine,TRUE,Ukraine,37.86,71984,160503,4043,country,UKR
+Ukraine,TRUE,Ukraine,37.86,71984,160503,4043,country,UKR
+Ukraine,TRUE,Ukraine,37.86,71984,160503,4043,country,UKR
+Ukraine,TRUE,Ukraine,37.86,71984,160503,4043,country,UKR
+Ukraine,TRUE,Ukraine,37.86,71984,160503,4043,country,UKR
+Ukraine,TRUE,Ukraine,37.86,71984,160503,4043,country,UKR
+Ukraine,TRUE,Ukraine,37.86,71984,160503,4043,country,UKR
+United Arab Emirates,TRUE,United Arab Emirates,11.03,431441,507064,53708,country,ARE
+United Arab Emirates,TRUE,United Arab Emirates,11.03,431441,507064,53708,country,ARE
+United Arab Emirates,TRUE,United Arab Emirates,11.03,431441,507064,53708,country,ARE
+United Arab Emirates,TRUE,United Arab Emirates,11.03,431441,507064,53708,country,ARE
+United Arab Emirates,TRUE,United Arab Emirates,11.03,431441,507064,53708,country,ARE
+United Arab Emirates,TRUE,United Arab Emirates,11.03,431441,507064,53708,country,ARE
+United Arab Emirates,TRUE,United Arab Emirates,11.03,431441,507064,53708,country,ARE
+United Arab Emirates,TRUE,United Arab Emirates,11.03,431441,507064,53708,country,ARE
+United Arab Emirates,TRUE,United Arab Emirates,11.03,431441,507064,53708,country,ARE
+United Arab Emirates,TRUE,United Arab Emirates,11.03,431441,507064,53708,country,ARE
+United Arab Emirates,TRUE,United Arab Emirates,11.03,431441,507064,53708,country,ARE
+United Arab Emirates,TRUE,United Arab Emirates,11.03,431441,507064,53708,country,ARE
+United Kingdom,TRUE,United Kingdom,69.14,3209502,3089073,45758,country,GBR
+United Kingdom,TRUE,United Kingdom,69.14,3209502,3089073,45758,country,GBR
+United Kingdom,TRUE,United Kingdom,69.14,3209502,3089073,45758,country,GBR
+United Kingdom,TRUE,United Kingdom,69.14,3209502,3089073,45758,country,GBR
+United Kingdom,TRUE,United Kingdom,69.14,3209502,3089073,45758,country,GBR
+United Kingdom,TRUE,United Kingdom,69.14,3209502,3089073,45758,country,GBR
+United Kingdom,TRUE,United Kingdom,69.14,3209502,3089073,45758,country,GBR
+United Kingdom,TRUE,United Kingdom,69.14,3209502,3089073,45758,country,GBR
+United Kingdom,TRUE,United Kingdom,69.14,3209502,3089073,45758,country,GBR
+United Kingdom,TRUE,United Kingdom,69.14,3209502,3089073,45758,country,GBR
+United Kingdom,TRUE,United Kingdom,69.14,3209502,3089073,45758,country,GBR
+United Kingdom,TRUE,United Kingdom,69.14,3209502,3089073,45758,country,GBR
+United Rep. of Tanzania,TRUE,Tanzania,68.56,71243,73535,1154,country,NA
+United States of America,TRUE,United States,345.43,21236276,25744100,76101,country,NA
+United States Virgin Islands,TRUE,U.S. Virgin Islands,0.08,NA,NA,NA,country,NA
+Uruguay,TRUE,Uruguay,3.39,62822,71171,20793,country,URY
+Uruguay,TRUE,Uruguay,3.39,62822,71171,20793,country,URY
+Uruguay,TRUE,Uruguay,3.39,62822,71171,20793,country,URY
+Uruguay,TRUE,Uruguay,3.39,62822,71171,20793,country,URY
+Uruguay,TRUE,Uruguay,3.39,62822,71171,20793,country,URY
+Uruguay,TRUE,Uruguay,3.39,62822,71171,20793,country,URY
+Uruguay,TRUE,Uruguay,3.39,62822,71171,20793,country,URY
+Uruguay,TRUE,Uruguay,3.39,62822,71171,20793,country,URY
+Uruguay,TRUE,Uruguay,3.39,62822,71171,20793,country,URY
+Uruguay,TRUE,Uruguay,3.39,62822,71171,20793,country,URY
+Uruguay,TRUE,Uruguay,3.39,62822,71171,20793,country,URY
+Uruguay,TRUE,Uruguay,3.39,62822,71171,20793,country,URY
+Uzbekistan,TRUE,Uzbekistan,36.36,123819,80392,2322,country,UZB
+Uzbekistan,TRUE,Uzbekistan,36.36,123819,80392,2322,country,UZB
+Uzbekistan,TRUE,Uzbekistan,36.36,123819,80392,2322,country,UZB
+Vanuatu,TRUE,Vanuatu,0.33,849,985,3015,country,VUT
+Vanuatu,TRUE,Vanuatu,0.33,849,985,3015,country,VUT
+Vanuatu,TRUE,Vanuatu,0.33,849,985,3015,country,VUT
+Vanuatu,TRUE,Vanuatu,0.33,849,985,3015,country,VUT
+Vanuatu,TRUE,Vanuatu,0.33,849,985,3015,country,VUT
+Vanuatu,TRUE,Vanuatu,0.33,849,985,3015,country,VUT
+Vanuatu,TRUE,Vanuatu,0.33,849,985,3015,country,VUT
+Vanuatu,TRUE,Vanuatu,0.33,849,985,3015,country,VUT
+Vanuatu,TRUE,Vanuatu,0.33,849,985,3015,country,VUT
+Venezuela (Boliv. Rep. of),TRUE,Venezuela,28.41,106672,129314,4569,country,NA
+Viet Nam,TRUE,Vietnam,100.99,358918,408802,4164,country,VNM
+Viet Nam,TRUE,Vietnam,100.99,358918,408802,4164,country,VNM
+Viet Nam,TRUE,Vietnam,100.99,358918,408802,4164,country,VNM
+Viet Nam,TRUE,Vietnam,100.99,358918,408802,4164,country,VNM
+Viet Nam,TRUE,Vietnam,100.99,358918,408802,4164,country,VNM
+Viet Nam,TRUE,Vietnam,100.99,358918,408802,4164,country,VNM
+Viet Nam,TRUE,Vietnam,100.99,358918,408802,4164,country,VNM
+Viet Nam,TRUE,Vietnam,100.99,358918,408802,4164,country,VNM
+Viet Nam,TRUE,Vietnam,100.99,358918,408802,4164,country,VNM
+Viet Nam,TRUE,Vietnam,100.99,358918,408802,4164,country,VNM
+Viet Nam,TRUE,Vietnam,100.99,358918,408802,4164,country,VNM
+Viet Nam,TRUE,Vietnam,100.99,358918,408802,4164,country,VNM
+Wallis and Futuna Islands,TRUE,Wallis and Futuna Islands,0.01,NA,NA,NA,country,NA
+Western Sahara,TRUE,Western Sahara,0.59,NA,NA,NA,country,NA
+Yemen,TRUE,Yemen,40.58,19294,11007,327,country,NA
+Zambia,TRUE,Zambia,21.32,25727,29137,1456,country,ZMB
+Zambia,TRUE,Zambia,21.32,25727,29137,1456,country,ZMB
+Zambia,TRUE,Zambia,21.32,25727,29137,1456,country,ZMB
+Zambia,TRUE,Zambia,21.32,25727,29137,1456,country,ZMB
+Zambia,TRUE,Zambia,21.32,25727,29137,1456,country,ZMB
+Zambia,TRUE,Zambia,21.32,25727,29137,1456,country,ZMB
+Zimbabwe,TRUE,Zimbabwe,16.63,21572,26419,1619,country,ZWE
+Zimbabwe,TRUE,Zimbabwe,16.63,21572,26419,1619,country,ZWE
+Zimbabwe,TRUE,Zimbabwe,16.63,21572,26419,1619,country,ZWE
+Zimbabwe,TRUE,Zimbabwe,16.63,21572,26419,1619,country,ZWE
+Zimbabwe,TRUE,Zimbabwe,16.63,21572,26419,1619,country,ZWE
+Zimbabwe,TRUE,Zimbabwe,16.63,21572,26419,1619,country,ZWE
+LLDCs,FALSE,LLDCs,592.79,NA,NA,NA,region,NA
+LDC§,FALSE,LDC§,1188.01,NA,NA,NA,region,NA
+SIDS,FALSE,SIDS,73.46,NA,NA,NA,region,NA
